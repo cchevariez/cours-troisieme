@@ -1,0 +1,106 @@
+---
+chapitre: 2
+tags:
+  - maths/troisieme
+---
+ 
+# Rappels de géométrie
+
+## Tableau des propriétés essentielles
+
+*Pour chaque propriété, réaliser une figure géométrique claire l'illustrant (à la main, sur papier ou dans un outil de géométrie).*
+
+| Domaine | Propriété |
+|---|---|
+| **Angles** | Si deux droites, coupées par une sécante, sont parallèles alors elles forment des angles alternes-internes de même mesure. |
+| | Si deux droites, coupées par une sécante, sont parallèles alors elles forment des angles correspondants de même mesure. |
+| | Si deux droites coupées par une sécante forment deux angles alternes-internes de même mesure alors elles sont parallèles. |
+| | Si deux droites coupées par une sécante forment deux angles correspondants de même mesure alors elles sont parallèles. |
+| **Triangles** | La somme des mesures des angles dans un triangle est égale à 180°. |
+| | Les angles d'un triangle équilatéral ont tous la même mesure. Les trois angles d'un triangle équilatéral mesurent 60°. |
+| | Dans un triangle isocèle les deux angles à la base ont la même mesure. |
+| | Tout triangle inscrit dans un demi-cercle est un triangle rectangle. |
+| **Droites** | Si deux droites sont perpendiculaires à une même droite, alors elles sont parallèles. |
+| | Si deux droites sont parallèles, toute droite perpendiculaire à l'une est perpendiculaire à l'autre. |
+| | Si deux droites sont parallèles à une même droite alors elles sont parallèles entre elles. |
+| **Parallélogrammes** | Un parallélogramme est un quadrilatère qui a ses côtés opposés parallèles. |
+| | Si un quadrilatère est un parallélogramme alors il a un centre de symétrie : le point d'intersection de ses diagonales. |
+| | Si un quadrilatère est un parallélogramme alors ses diagonales ont le même milieu. |
+| | Si un quadrilatère est un parallélogramme alors ses côtés opposés ont la même longueur. |
+| **Parallélogrammes** (réciproques) | Si un quadrilatère a ses côtés opposés parallèles, alors c'est un parallélogramme. |
+| | Si un quadrilatère a les côtés opposés de même longueur, alors c'est un parallélogramme. |
+| | Si un quadrilatère a les diagonales qui se coupent en leur milieu, alors c'est un parallélogramme. |
+| **Triangles semblables** | Deux triangles sont semblables s'ils ont leurs angles respectivement égaux. |
+| | Dans deux triangles semblables, les côtés homologues sont proportionnels. |
+| | Si deux triangles ont leurs côtés proportionnels, alors ils sont semblables. |
+
+> [!methode] Méthode — Travail à faire
+> - Pour chaque propriété du tableau, réaliser une figure géométrique claire.
+> - La figure doit illustrer précisément la propriété énoncée.
+> - Utiliser un crayon, une règle et un compas pour des figures nettes.
+> - Coder la figure (angles égaux, segments égaux, droites parallèles, etc.) selon les conventions usuelles.
+> - Utiliser des couleurs différentes pour distinguer les éléments importants.
+
+## Rédaction
+
+Pour ne pas confondre recherche de solutions et rédaction, prenons un exemple.
+
+> [!exercice] Exercice 1
+> Voici un labyrinthe simple.
+>
+> ![[laby.jpg]]
+>
+> 1. Résoudre le labyrinthe.
+> 2. Expliquer comment vous avez résolu ce labyrinthe. Pas en détail mais expliquer votre technique/méthode.
+> 3. Par téléphone, un ami vous demande la solution de ce labyrinthe (pas comment vous avez trouvé la solution mais la solution pure). Comment allez-vous lui donner cette solution par téléphone ?
+
+Il faut distinguer la recherche de solution de sa rédaction. Sur votre copie, il ne doit apparaître que la rédaction de la solution (sauf pour les problèmes ouverts pour le moment).
+
+La rédaction suit des étapes bien déterminées :
+
+![[redaction.png]]
+
+> [!remarque] Remarque
+> Attention, il se peut que vous ayez besoin de répéter ces étapes si votre démonstration se fait en plusieurs temps.
+
+## Application
+
+> [!exercice] Exercice 2
+> On considère le parallélogramme $ABCD$ et la droite $\mathcal{D}$ telle que $\mathcal{D} \perp (AB)$.
+>
+> <iframe scrolling="no" title="Parallélogramme ABCD et droite perpendiculaire" src="https://www.geogebra.org/material/iframe/id/nqjxsfsm/width/800/height/500/border/888888/sfsb/true/smb/false/stb/false/stbh/false/ai/false/asb/false/sri/false/rc/false/ld/false/sdz/true/ctl/false" width="100%" height="420" style="border:0px;"></iframe>
+>
+> Démontrer que $\mathcal{D} \perp (CD)$.
+
+> [!exercice] Exercice 3
+> On considère $\mathcal{C}$ le cercle de centre $O$ et de diamètre $[AB]$. Soit $C$ un point du cercle $\mathcal{C}$ distinct de $A$ et $B$ et la droite $\mathcal{D}$ telle que $\mathcal{D} \perp (BC)$.
+>
+> <iframe src="https://www.geogebra.org/classic/fsduxsur?embed" width="800" height="600" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
+>
+> Démontrer que $\mathcal{D} \sslash (AC)$.
+
+Les théorèmes sont des propriétés plus complexes. Les théorèmes peuvent porter le nom de la personne qui a trouvé cette propriété ou simplement un nom en lien avec leur utilité :
+- Théorème de Thalès
+- Théorème de Pythagore
+- Théorème des valeurs intermédiaires (lycée)
+
+L'application d'un théorème demande plus de précaution. Un théorème possède des conditions d'utilisation, qu'il faut vérifier avant de pouvoir l'appliquer.
+
+Pour le moment, vous connaissez tous le théorème de Pythagore ainsi que sa réciproque.
+
+![[redacth.png]]
+
+> [!remarque] Remarque
+> Veillez bien à vérifier les conditions d'application d'un théorème avant de l'appliquer. Dans les exercices simples, ces conditions sont données mais dans les exercices évolués ce sera à vous de les vérifier. La plupart des erreurs viennent de là.
+
+> [!exercice] Exercice 4
+> On considère le cercle $\mathcal{C}$ de diamètre $[AB]$ et $C \in \mathcal{C}$.
+>
+> <iframe src="https://www.geogebra.org/classic/ux5puadg?embed" width="800" height="600" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
+>
+> Déterminer la longueur de $[AC]$.
+
+> [!exercice] Exercice 5
+> On considère un triangle $ABC$ tel que $AB=2,5 \ cm$, $AC=2 \ cm$ et $BC=1,5 \ cm$.
+>
+> Démontrer que le triangle $ABC$ est un triangle rectangle.
