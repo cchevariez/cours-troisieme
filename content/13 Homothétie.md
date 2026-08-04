@@ -45,5 +45,3 @@ $M'$ est l'image de $M$ par l'homothétie de centre $O$ et de rapport 2 donc : *
 ![[homo-6.png]]
 
 $M'$ est l'image de $M$ par l'homothétie de centre $O$ et de rapport -0,5 donc : *(à compléter)*
-
-*(Note de test publier.sh — à retirer, 2026-08-04)*
