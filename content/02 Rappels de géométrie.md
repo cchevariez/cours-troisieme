@@ -10,29 +10,29 @@ tags:
 
 *Pour chaque propriété, réaliser une figure géométrique claire l'illustrant (à la main, sur papier ou dans un outil de géométrie).*
 
-| Domaine | Propriété |
-|---|---|
-| **Angles** | Si deux droites, coupées par une sécante, sont parallèles alors elles forment des angles alternes-internes de même mesure. |
-| | Si deux droites, coupées par une sécante, sont parallèles alors elles forment des angles correspondants de même mesure. |
-| | Si deux droites coupées par une sécante forment deux angles alternes-internes de même mesure alors elles sont parallèles. |
-| | Si deux droites coupées par une sécante forment deux angles correspondants de même mesure alors elles sont parallèles. |
-| **Triangles** | La somme des mesures des angles dans un triangle est égale à 180°. |
-| | Les angles d'un triangle équilatéral ont tous la même mesure. Les trois angles d'un triangle équilatéral mesurent 60°. |
-| | Dans un triangle isocèle les deux angles à la base ont la même mesure. |
-| | Tout triangle inscrit dans un demi-cercle est un triangle rectangle. |
-| **Droites** | Si deux droites sont perpendiculaires à une même droite, alors elles sont parallèles. |
-| | Si deux droites sont parallèles, toute droite perpendiculaire à l'une est perpendiculaire à l'autre. |
-| | Si deux droites sont parallèles à une même droite alors elles sont parallèles entre elles. |
-| **Parallélogrammes** | Un parallélogramme est un quadrilatère qui a ses côtés opposés parallèles. |
-| | Si un quadrilatère est un parallélogramme alors il a un centre de symétrie : le point d'intersection de ses diagonales. |
-| | Si un quadrilatère est un parallélogramme alors ses diagonales ont le même milieu. |
-| | Si un quadrilatère est un parallélogramme alors ses côtés opposés ont la même longueur. |
-| **Parallélogrammes** (réciproques) | Si un quadrilatère a ses côtés opposés parallèles, alors c'est un parallélogramme. |
-| | Si un quadrilatère a les côtés opposés de même longueur, alors c'est un parallélogramme. |
-| | Si un quadrilatère a les diagonales qui se coupent en leur milieu, alors c'est un parallélogramme. |
-| **Triangles semblables** | Deux triangles sont semblables s'ils ont leurs angles respectivement égaux. |
-| | Dans deux triangles semblables, les côtés homologues sont proportionnels. |
-| | Si deux triangles ont leurs côtés proportionnels, alors ils sont semblables. |
+| Domaine                            | Propriété                                                                                                                  |
+| ---------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
+| **Angles**                         | Si deux droites, coupées par une sécante, sont parallèles alors elles forment des angles alternes-internes de même mesure. |
+|                                    | Si deux droites, coupées par une sécante, sont parallèles alors elles forment des angles correspondants de même mesure.    |
+|                                    | Si deux droites coupées par une sécante forment deux angles alternes-internes de même mesure alors elles sont parallèles.  |
+|                                    | Si deux droites coupées par une sécante forment deux angles correspondants de même mesure alors elles sont parallèles.     |
+| **Triangles**                      | La somme des mesures des angles dans un triangle est égale à 180°.                                                         |
+|                                    | Les angles d'un triangle équilatéral ont tous la même mesure. Les trois angles d'un triangle équilatéral mesurent 60°.     |
+|                                    | Dans un triangle isocèle les deux angles à la base ont la même mesure.                                                     |
+|                                    | Tout triangle inscrit dans un demi-cercle est un triangle rectangle.                                                       |
+| **Droites**                        | Si deux droites sont perpendiculaires à une même droite, alors elles sont parallèles.                                      |
+|                                    | Si deux droites sont parallèles, toute droite perpendiculaire à l'une est perpendiculaire à l'autre.                       |
+|                                    | Si deux droites sont parallèles à une même droite alors elles sont parallèles entre elles.                                 |
+| **Parallélogrammes**               | Un parallélogramme est un quadrilatère qui a ses côtés opposés parallèles.                                                 |
+|                                    | Si un quadrilatère est un parallélogramme alors il a un centre de symétrie : le point d'intersection de ses diagonales.    |
+|                                    | Si un quadrilatère est un parallélogramme alors ses diagonales ont le même milieu.                                         |
+|                                    | Si un quadrilatère est un parallélogramme alors ses côtés opposés ont la même longueur.                                    |
+| **Parallélogrammes** (réciproques) | Si un quadrilatère a ses côtés opposés parallèles, alors c'est un parallélogramme.                                         |
+|                                    | Si un quadrilatère a les côtés opposés de même longueur, alors c'est un parallélogramme.                                   |
+|                                    | Si un quadrilatère a les diagonales qui se coupent en leur milieu, alors c'est un parallélogramme.                         |
+| **Triangles semblables**           | Deux triangles sont semblables s'ils ont leurs angles respectivement égaux.                                                |
+|                                    | Dans deux triangles semblables, les côtés homologues sont proportionnels.                                                  |
+|                                    | Si deux triangles ont leurs côtés proportionnels, alors ils sont semblables.                                               |
 
 > [!methode] Méthode — Travail à faire
 > - Pour chaque propriété du tableau, réaliser une figure géométrique claire.
@@ -48,7 +48,7 @@ Pour ne pas confondre recherche de solutions et rédaction, prenons un exemple.
 > [!exercice] Exercice 1
 > Voici un labyrinthe simple.
 >
-> ![[laby.jpg]]
+> ![[laby.png]]
 >
 > 1. Résoudre le labyrinthe.
 > 2. Expliquer comment vous avez résolu ce labyrinthe. Pas en détail mais expliquer votre technique/méthode.
@@ -104,3 +104,42 @@ Pour le moment, vous connaissez tous le théorème de Pythagore ainsi que sa ré
 > On considère un triangle $ABC$ tel que $AB=2,5 \ cm$, $AC=2 \ cm$ et $BC=1,5 \ cm$.
 >
 > Démontrer que le triangle $ABC$ est un triangle rectangle.
+
+> [!exercice] Exercice 6
+> On considère un quadrilatère $ABCD$ tel que $(AB) \parallel (DC)$ et $AB = DC$. On note $I$ le point d'intersection des diagonales $[AC]$ et $[BD]$.
+>
+> <iframe src="https://www.geogebra.org/classic/fpyd3b4v?embed" width="800" height="400" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
+>
+> 1. Démontrer que $ABCD$ est un parallélogramme.
+> 2. En déduire que $I$ est le milieu de $[AC]$ et de $[BD]$.
+
+> [!exercice] Exercice 7
+> Soit $ABC$ un triangle isocèle en $A$ (c'est-à-dire $AB = AC$). On note $I$ le milieu du segment $[BC]$.
+>
+> ![[geom_mediatrice.png]]
+>
+> Démontrer que la droite $(AI)$ est la médiatrice du segment $[BC]$.
+
+> [!exercice] Exercice 8
+> Les droites $(AB)$ et $(CD)$ sont coupées par la sécante $(EF)$, respectivement en $I$ et $J$. On donne $\widehat{EIA} = 58°$ et $\widehat{EJC} = 58°$.
+>
+> ![[geom_angles_paralleles.png]]
+>
+> 1. Ces deux angles sont-ils alternes-internes, correspondants, ou ni l'un ni l'autre ? Justifier à l'aide de la figure.
+> 2. En déduire que $(AB) \parallel (CD)$.
+
+> [!exercice] Exercice 9
+> On considère le cercle $\mathcal{C}$ de centre $O$ et de diamètre $[AB]$ avec $AB = 10$ cm. Soit $C$ un point du cercle $\mathcal{C}$ tel que $AC = 6$ cm.
+>
+> ![[geom_pythagore_demicercle.png]]
+>
+> 1. Démontrer que le triangle $ABC$ est rectangle en $C$.
+> 2. En déduire la longueur $BC$.
+
+> [!exercice] Exercice 10
+> Un triangle $MNP$ est tel que $MN = 5$ cm, $NP = 12$ cm et $MP = 13$ cm.
+>
+> ![[geom_pythagore_reciproque.png]]
+>
+> 1. Démontrer que le triangle $MNP$ est rectangle. Préciser en quel sommet.
+> 2. En déduire l'aire du triangle $MNP$.

@@ -47,6 +47,103 @@ $$\mathcal{A} = 3h + \frac{3 \times 1,6}{2} = 3h+2,4$$
 On veut $\mathcal{A} \le 20$, soit $3h+2,4 \le 20$, donc $3h \le 17,6$ et $h \le \dfrac{17,6}{3} \approx 5,87$ m.
 Paul peut donc choisir une longueur variable d'au maximum environ **5,87 m**.
 
+**Exercice 6**
+
+$A = -12 + 5 \times (-3) = -12 + (-15) = -27$
+
+$B = -6 \times (18 - 9 \times (-2)) = -6 \times (18 + 18) = -6 \times 36 = -216$
+
+$C = -15 - (-4 \times (-5) - 25) = -15 - (20 - 25) = -15 - (-5) = -15 + 5 = -10$
+
+**Exercice 7**
+
+$A = 3(x+2)-5x = 3x + 6 - 5x = -2x + 6$
+
+$B = (x-3)(2x+5) = 2x^2 + 5x - 6x - 15 = 2x^2 - x - 15$
+
+$C = (x+2)^2-3x^2 = x^2 + 4x + 4 - 3x^2 = -2x^2 + 4x + 4$
+
+### Programme de calcul
+
+**Exercice 1**
+1. Pour le nombre 5 : $5 \to 5+2=7 \to 7^2=49 \to 49-5^2=49-25=24$. Le résultat est bien 24.
+2. Pour le nombre $-3$ : $-3 \to -3+2=-1 \to (-1)^2=1 \to 1-(-3)^2=1-9=-8$. Le résultat est $-8$.
+3. Soit $x$ le nombre choisi : $x \rightarrow x + 2 \rightarrow (x + 2)^2 \rightarrow (x + 2)^2 - x^2 = 4x + 4$. $4x + 4 = 4(x + 1)$. Le résultat est toujours un multiple de 4.
+4. $4x + 4 = 0 \Leftrightarrow x = -1$. Le nombre de départ est $-1$.
+
+**Exercice 2**
+1. Pour $x = 2$ : branche gauche $(2 + 2) \times 4 = 16$ ; branche droite $2 \times 5 - 3 = 7$ ; résultat $16 \times 7 = 112$.
+2. Pour $x = -3$ : branche gauche $(-3 + 2) \times 4 = -4$ ; branche droite $-3 \times 5 - 3 = -18$ ; résultat $-4 \times (-18) = 72$.
+3. Expression correcte : **C** $(4x + 8)(5x - 3)$, car $(x + 2) \times 4 = 4x + 8$ et $x \times 5 - 3 = 5x - 3$.
+4. $(4x + 8)(5x - 3) = 0$ donne $x = -2$ ou $x = \frac{3}{5}$.
+
+**Exercice 3**
+1. Pour $x = 4$ avec le programme A : $4 \rightarrow 12 \rightarrow 27 \rightarrow 9 \rightarrow 9 - 4 = 5$.
+2. Pour $x = -2$ avec le programme A : $-2 \rightarrow -6 \rightarrow 9 \rightarrow 3 \rightarrow 3 - (-2) = 5$.
+3. Soit $x$ le nombre choisi : $x \rightarrow 3x \rightarrow 3x + 15 \rightarrow \frac{3x + 15}{3} \rightarrow \frac{3x + 15}{3} - x = \frac{15}{3} = 5$. Le programme A donne toujours 5.
+4. Pour $x = 10$ avec le programme B : $(10 - 1)(10 - 6) + 5 = 36 + 5 = 41$.
+5. $(x - 1)(x - 6) + 5 = 5 \iff (x - 1)(x - 6) = 0 \iff x=1$ ou $x=6$.
+
+**Exercice 4**
+
+*Partie A*
+1. Pour $x = 10$ : $10 \rightarrow 6 \rightarrow 12 \rightarrow 20$.
+2. Pour $x = -7$ : $-7 \rightarrow -11 \rightarrow -22 \rightarrow -14$.
+3. Soit $x$ le nombre choisi : $x \rightarrow x - 4 \rightarrow 2(x - 4) \rightarrow 2(x - 4) + 8 = 2x$. Zoé a raison.
+
+*Partie B*
+4. Soit $x$ le nombre choisi : $x \rightarrow 4x \rightarrow 4x + 10 \rightarrow 5(4x + 10) \rightarrow 5(4x + 10) - 50 = 20x$.
+5. $20x = 75 \iff x = 3,75$.
+
+### Problèmes ouverts
+
+**Exercice 1 : Téléchargement**
+
+À vitesse constante, 1,3 Mo sont téléchargés chaque seconde. Il reste à télécharger : $115,2 - 9,7 = 105,5$ Mo. Il faudra donc $\dfrac{105,5}{1,3} \approx 81,2$ s, soit environ 1 min 21 s. Comme $81,2 \text{ s} < 85 \text{ s}$ (une minute et vingt-cinq secondes), **non**, il ne faudra pas plus d'une minute et vingt-cinq secondes pour terminer le téléchargement.
+
+**Exercice 2 : Course de roller**
+
+**Calcul de la vitesse du garçon :** le parcours du garçon est une ligne droite GA de longueur 200 m. Temps du garçon : 28 secondes. Vitesse moyenne du garçon : $\frac{200}{28} \approx 7,14$ m/s.
+
+**Calcul de la vitesse de la fille :** le parcours de la fille comprend deux segments de 60 m, un troisième de 60 m, et deux demi-cercles de rayon 5 m ($\frac{1}{2} \times 2 \times \pi \times 5 = 5\pi$ m chacun).
+
+Longueur totale : $60 \times 3 + 10\pi = 240 + 10\pi \approx 271,4$ m. Temps de la fille : 28,5 secondes. Vitesse moyenne de la fille : $\frac{240 + 10\pi}{28,5} \approx 9,52$ m/s.
+
+**Comparaison et conclusion :** vitesse du garçon : 7,14 m/s ; vitesse de la fille : 9,52 m/s. Comme $9,52 > 7,14$, la fille a couru le plus vite.
+
+**Exercice 3 : Fuite d'eau dans une vasque**
+
+**Nombre de gouttes en une semaine :** $24 \times 3\,600 = 86\,400$ gouttes/jour, donc $7 \times 86\,400 = 604\,800$ gouttes en une semaine.
+
+**Volume d'eau correspondant :** $\frac{604\,800}{20} = 30\,240$ ml $= 30,24$ litres.
+
+**Volume de la vasque :** rayon $=2$ dm, hauteur $=1,5$ dm. Volume maximal $= \pi \times 2^2 \times 1,5 = 6\pi \approx 18,85$ litres.
+
+**Conclusion :** comme $30,24 > 18,85$, l'eau va déborder au bout d'une semaine.
+
+### Entraînement évaluation
+
+**Exercice 1 : Activités numériques**
+1. $A = -15 + 6 \times (-2) = -15 - 12 = -27$
+2. $B = -5 \times (12 - 7 \times (-3)) = -5 \times 33 = -165$
+
+**Exercice 2 : Calcul littéral**
+1. $C = 5(x+3)-3x = 2x + 15$
+2. $D = (x-4)(3x+2)-x^2 = 2x^2 - 10x - 8$
+
+**Exercice 3 : Programme de calcul**
+1. Vérification pour $x = -2$ : $-2 \to -6 \to 0 \to 0$. Le résultat final est bien 0.
+2. Expression du programme : $2(3x + 6) = 6x + 12$. $6x + 12 = 18 \iff x = 1$.
+3. $6x + 12 = 6(x + 2)$ ; si $x$ est un entier, $(x+2)$ l'est aussi, donc $6(x+2)$ est un multiple de 6.
+4. $(x+3)^2-(x^2-3) = x^2+6x+9-x^2+3=6x+12$, identique à l'expression du programme 1 : les deux programmes renvoient donc toujours la même valeur.
+
+**Exercice 4 : Problème ouvert**
+- Distance aller-retour : $803 \times 2 = 1606$ km
+- Coût de location : $300 + 0,25 \times 1606 = 701,50$ €
+- Consommation : $\frac{1606 \times 5,6}{100} = 89,936$ L, coût carburant $\approx 168,18$ €
+- Coût total : $701,50 + 168,18 + 115,80 = 985,48$ €
+- Comme $985,48 < 1000$, le budget sera suffisant (il restera $14,52$ €).
+
 ## Corrigé chapitre 2 — Rappels de géométrie
 
 *Rédigé pour cette édition.*
@@ -75,6 +172,37 @@ $$AC = \sqrt{95} \approx 9,75 \text{ cm}$$
 Le plus grand côté est $AB=2,5$ cm. On compare $AB^2$ et $AC^2+BC^2$ :
 $$AB^2 = 2,5^2 = 6,25 \qquad AC^2+BC^2 = 2^2+1,5^2 = 4+2,25 = 6,25$$
 Comme $AB^2 = AC^2+BC^2$, d'après la réciproque du théorème de Pythagore, le triangle $ABC$ est rectangle en $C$.
+
+**Exercice 6**
+1. $(AB) \parallel (DC)$ et $AB = DC$ : un quadrilatère qui a deux côtés opposés parallèles et de même longueur est un parallélogramme, donc $ABCD$ est un parallélogramme.
+2. $ABCD$ est un parallélogramme donc ses diagonales $[AC]$ et $[BD]$ ont le même milieu. Or leur point d'intersection est $I$, donc $I$ est le milieu de $[AC]$ et de $[BD]$.
+
+**Exercice 7**
+
+Dans les triangles $ABI$ et $ACI$ : $AB = AC$ (triangle isocèle en $A$), $BI = CI$ ($I$ milieu de $[BC]$) et $AI = AI$ (côté commun). Les triangles $ABI$ et $ACI$ ont donc leurs trois côtés égaux deux à deux : ils sont superposables, donc $\widehat{AIB} = \widehat{AIC}$.
+
+Or $B$, $I$, $C$ sont alignés, donc $\widehat{AIB}$ et $\widehat{AIC}$ sont supplémentaires : $\widehat{AIB} + \widehat{AIC} = 180°$. Comme ils sont égaux, $\widehat{AIB} = \widehat{AIC} = 90°$, donc $(AI) \perp (BC)$.
+
+$(AI)$ est donc perpendiculaire à $[BC]$ et passe par son milieu $I$ : $(AI)$ est la médiatrice de $[BC]$.
+
+**Exercice 8**
+1. Les angles $\widehat{EIA}$ et $\widehat{EJC}$ sont situés du même côté de la sécante $(EF)$ et du même côté des droites $(AB)$ et $(CD)$ : ce sont des angles correspondants.
+2. Les droites $(AB)$ et $(CD)$, coupées par la sécante $(EF)$, forment deux angles correspondants de même mesure ($58°$), donc $(AB) \parallel (CD)$.
+
+**Exercice 9**
+1. $[AB]$ est un diamètre du cercle $\mathcal{C}$ et $C$ est un point de $\mathcal{C}$, donc le triangle $ABC$ est inscrit dans un demi-cercle : il est rectangle en $C$.
+2. D'après le théorème de Pythagore dans le triangle $ABC$ rectangle en $C$ :
+$$AB^2 = AC^2 + BC^2$$
+$$10^2 = 6^2 + BC^2$$
+$$BC^2 = 100 - 36 = 64$$
+$$BC = \sqrt{64} = 8 \text{ cm}$$
+
+**Exercice 10**
+1. Le plus grand côté est $MP = 13$ cm. On compare $MP^2$ et $MN^2+NP^2$ :
+$$MP^2 = 13^2 = 169 \qquad MN^2+NP^2 = 5^2+12^2 = 25+144 = 169$$
+Comme $MP^2 = MN^2+NP^2$, d'après la réciproque du théorème de Pythagore, le triangle $MNP$ est rectangle en $N$.
+2. Le triangle est rectangle en $N$, donc $[MN]$ et $[NP]$ sont les côtés de l'angle droit : ils jouent le rôle de base et de hauteur.
+$$\mathcal{A} = \frac{MN \times NP}{2} = \frac{5 \times 12}{2} = 30 \text{ cm}^2$$
 
 ## Corrigé chapitre 3 — Le développement
 
@@ -1128,106 +1256,7 @@ D'après la figure, $M$ et $N$ sont les points où la droite $(MN)$, perpendicul
 
 ## Corrigé chapitre 24 — Exercices supplémentaires
 
-*Numérotation par sous-section, comme dans le chapitre.*
-
-### Activités numériques et littérales
-
-**Exercice 1**
-
-$A = -12 + 5 \times (-3) = -12 + (-15) = -27$
-
-$B = -6 \times (18 - 9 \times (-2)) = -6 \times (18 + 18) = -6 \times 36 = -216$
-
-$C = -15 - (-4 \times (-5) - 25) = -15 - (20 - 25) = -15 - (-5) = -15 + 5 = -10$
-
-**Exercice 2**
-
-$A = 3(x+2)-5x = 3x + 6 - 5x = -2x + 6$
-
-$B = (x-3)(2x+5) = 2x^2 + 5x - 6x - 15 = 2x^2 - x - 15$
-
-$C = (x+2)^2-3x^2 = x^2 + 4x + 4 - 3x^2 = -2x^2 + 4x + 4$
-
-### Programme de calcul
-
-**Exercice 1**
-1. Pour le nombre 5 : $5 \to 5+2=7 \to 7^2=49 \to 49-5^2=49-25=24$. Le résultat est bien 24.
-2. Pour le nombre $-3$ : $-3 \to -3+2=-1 \to (-1)^2=1 \to 1-(-3)^2=1-9=-8$. Le résultat est $-8$.
-3. Soit $x$ le nombre choisi : $x \rightarrow x + 2 \rightarrow (x + 2)^2 \rightarrow (x + 2)^2 - x^2 = 4x + 4$. $4x + 4 = 4(x + 1)$. Le résultat est toujours un multiple de 4.
-4. $4x + 4 = 0 \Leftrightarrow x = -1$. Le nombre de départ est $-1$.
-
-**Exercice 2**
-1. Pour $x = 2$ : branche gauche $(2 + 2) \times 4 = 16$ ; branche droite $2 \times 5 - 3 = 7$ ; résultat $16 \times 7 = 112$.
-2. Pour $x = -3$ : branche gauche $(-3 + 2) \times 4 = -4$ ; branche droite $-3 \times 5 - 3 = -18$ ; résultat $-4 \times (-18) = 72$.
-3. Expression correcte : **C** $(4x + 8)(5x - 3)$, car $(x + 2) \times 4 = 4x + 8$ et $x \times 5 - 3 = 5x - 3$.
-4. $(4x + 8)(5x - 3) = 0$ donne $x = -2$ ou $x = \frac{3}{5}$.
-
-**Exercice 3**
-1. Pour $x = 4$ avec le programme A : $4 \rightarrow 12 \rightarrow 27 \rightarrow 9 \rightarrow 9 - 4 = 5$.
-2. Pour $x = -2$ avec le programme A : $-2 \rightarrow -6 \rightarrow 9 \rightarrow 3 \rightarrow 3 - (-2) = 5$.
-3. Soit $x$ le nombre choisi : $x \rightarrow 3x \rightarrow 3x + 15 \rightarrow \frac{3x + 15}{3} \rightarrow \frac{3x + 15}{3} - x = \frac{15}{3} = 5$. Le programme A donne toujours 5.
-4. Pour $x = 10$ avec le programme B : $(10 - 1)(10 - 6) + 5 = 36 + 5 = 41$.
-5. $(x - 1)(x - 6) + 5 = 5 \iff (x - 1)(x - 6) = 0 \iff x=1$ ou $x=6$.
-
-**Exercice 4**
-
-*Partie A*
-1. Pour $x = 10$ : $10 \rightarrow 6 \rightarrow 12 \rightarrow 20$.
-2. Pour $x = -7$ : $-7 \rightarrow -11 \rightarrow -22 \rightarrow -14$.
-3. Soit $x$ le nombre choisi : $x \rightarrow x - 4 \rightarrow 2(x - 4) \rightarrow 2(x - 4) + 8 = 2x$. Zoé a raison.
-
-*Partie B*
-4. Soit $x$ le nombre choisi : $x \rightarrow 4x \rightarrow 4x + 10 \rightarrow 5(4x + 10) \rightarrow 5(4x + 10) - 50 = 20x$.
-5. $20x = 75 \iff x = 3,75$.
-
-### Problèmes ouverts
-
-**Exercice 1 : Téléchargement**
-
-À vitesse constante, 1,3 Mo sont téléchargés chaque seconde. Il reste à télécharger : $115,2 - 9,7 = 105,5$ Mo. Il faudra donc $\dfrac{105,5}{1,3} \approx 81,2$ s, soit environ 1 min 21 s. Comme $81,2 \text{ s} < 85 \text{ s}$ (une minute et vingt-cinq secondes), **non**, il ne faudra pas plus d'une minute et vingt-cinq secondes pour terminer le téléchargement.
-
-**Exercice 2 : Course de roller**
-
-**Calcul de la vitesse du garçon :** le parcours du garçon est une ligne droite GA de longueur 200 m. Temps du garçon : 28 secondes. Vitesse moyenne du garçon : $\frac{200}{28} \approx 7,14$ m/s.
-
-**Calcul de la vitesse de la fille :** le parcours de la fille comprend deux segments de 60 m, un troisième de 60 m, et deux demi-cercles de rayon 5 m ($\frac{1}{2} \times 2 \times \pi \times 5 = 5\pi$ m chacun).
-
-Longueur totale : $60 \times 3 + 10\pi = 240 + 10\pi \approx 271,4$ m. Temps de la fille : 28,5 secondes. Vitesse moyenne de la fille : $\frac{240 + 10\pi}{28,5} \approx 9,52$ m/s.
-
-**Comparaison et conclusion :** vitesse du garçon : 7,14 m/s ; vitesse de la fille : 9,52 m/s. Comme $9,52 > 7,14$, la fille a couru le plus vite.
-
-**Exercice 3 : Fuite d'eau dans une vasque**
-
-**Nombre de gouttes en une semaine :** $24 \times 3\,600 = 86\,400$ gouttes/jour, donc $7 \times 86\,400 = 604\,800$ gouttes en une semaine.
-
-**Volume d'eau correspondant :** $\frac{604\,800}{20} = 30\,240$ ml $= 30,24$ litres.
-
-**Volume de la vasque :** rayon $=2$ dm, hauteur $=1,5$ dm. Volume maximal $= \pi \times 2^2 \times 1,5 = 6\pi \approx 18,85$ litres.
-
-**Conclusion :** comme $30,24 > 18,85$, l'eau va déborder au bout d'une semaine.
-
-### Entraînement évaluation
-
-**Exercice 1 : Activités numériques**
-1. $A = -15 + 6 \times (-2) = -15 - 12 = -27$
-2. $B = -5 \times (12 - 7 \times (-3)) = -5 \times 33 = -165$
-
-**Exercice 2 : Calcul littéral**
-1. $C = 5(x+3)-3x = 2x + 15$
-2. $D = (x-4)(3x+2)-x^2 = 2x^2 - 10x - 8$
-
-**Exercice 3 : Programme de calcul**
-1. Vérification pour $x = -2$ : $-2 \to -6 \to 0 \to 0$. Le résultat final est bien 0.
-2. Expression du programme : $2(3x + 6) = 6x + 12$. $6x + 12 = 18 \iff x = 1$.
-3. $6x + 12 = 6(x + 2)$ ; si $x$ est un entier, $(x+2)$ l'est aussi, donc $6(x+2)$ est un multiple de 6.
-4. $(x+3)^2-(x^2-3) = x^2+6x+9-x^2+3=6x+12$, identique à l'expression du programme 1 : les deux programmes renvoient donc toujours la même valeur.
-
-**Exercice 4 : Problème ouvert**
-- Distance aller-retour : $803 \times 2 = 1606$ km
-- Coût de location : $300 + 0,25 \times 1606 = 701,50$ €
-- Consommation : $\frac{1606 \times 5,6}{100} = 89,936$ L, coût carburant $\approx 168,18$ €
-- Coût total : $701,50 + 168,18 + 115,80 = 985,48$ €
-- Comme $985,48 < 1000$, le budget sera suffisant (il restera $14,52$ €).
+*Numérotation par sous-section, comme dans le chapitre. Les corrigés des exercices « Activités numériques et littérales », « Programme de calcul », « Problèmes ouverts » et « Entraînement évaluation » ont été déplacés dans le corrigé du chapitre 1.*
 
 ### Exercices complémentaires — Identités remarquables
 
