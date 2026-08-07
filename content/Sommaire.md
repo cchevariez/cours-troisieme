@@ -49,6 +49,11 @@ tags:
 
 25. [[25 Corrigés des exercices]] — tous les corrigés d'exercices du cours, regroupés par chapitre (repris du support d'origine ou rédigés pour cette édition quand ils manquaient).
 
+## Automatismes
+
+26. [[26 Automatismes]] — 25 semaines, deux fiches d'entraînement (A et B) de 15 min (sans calculatrice) chacune, mêmes thèmes par semaine, corrigés intégrés.
+27. [[27 Automatismes - Évaluations]] — les 25 évaluations notées correspondantes (mêmes thèmes, valeurs différentes), avec espace nom/prénom, espace réponse et corrigé, mise en page prête à imprimer (sauts de page).
+
 ---
 
 Vue tout-en-un (concaténation des 24 chapitres de cours par transclusion, façon `troisieme.tex`) : [[Cours complet]]

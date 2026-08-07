@@ -65,6 +65,15 @@ Quelques exemples valent mieux qu'un long discours...
 > \end{align*}$$
 
 > [!exercice] Exercice 1
+> Factoriser les expressions suivantes en mettant en évidence le facteur commun numérique ou monôme :
+> 1. $21x+14$
+> 2. $9x-9$
+> 3. $8x^2+12x$
+> 4. $10x^2-6x$
+> 5. $6x-4$
+> 6. $x^2-x$
+
+> [!exercice] Exercice 2
 > Factoriser les expressions suivantes :
 > 1. $(3x+7)(2x-4)+(3x+7)(4x+2)$
 > 2. $(2x-5)^2-(2x-5)(6x-1)$
@@ -92,15 +101,24 @@ Poursuivons avec quelques exemples :
 
 Ces exemples sont volontairement largement détaillés. Rien ne vous empêchera lors de vos examens de laisser moins d'étapes de calculs (si toutefois vous n'écrivez pas directement le résultat).
 
-> [!exercice] Exercice 2
+> [!exercice] Exercice 3
 > Factoriser les expressions suivantes :
 > 1. $A(x)=9x^2+42x+49$
 > 2. $B(x)=25x^2-60x+36$
 > 3. $C(x)=9x^2-64$
 
+> [!exercice] Exercice 4
+> Factoriser les expressions suivantes à l'aide d'une identité remarquable :
+> 1. $x^2+14x+49$
+> 2. $x^2+20x+100$
+> 3. $x^2-18x+81$
+> 4. $x^2-10x+25$
+> 5. $x^2-16$
+> 6. $4x^2-25$
+
 ## Exercices
 
-> [!exercice] Exercice 3
+> [!exercice] Exercice 5
 > Factoriser les expressions suivantes (en utilisant la méthode appropriée) :
 > 1. $(3x-5)(4x+5)-(4x+5)(2x+7)$
 > 2. $(6x-11)^2+(6x-11)(2x-5)$
@@ -113,7 +131,7 @@ Ces exemples sont volontairement largement détaillés. Rien ne vous empêchera 
 > 9. $\dfrac{x^2}{4}-5x+25$
 > 10. $15x^2-30x+15$
 
-> [!exercice] Exercice 4
+> [!exercice] Exercice 6
 > Factoriser les expressions suivantes :
 > 1. $A(x)=(2x-5)(7+3x)-(4x^2-20x+25)$
 > 2. $B(x)=(x-3)(3x+5)+(9x^2+30x+25)$

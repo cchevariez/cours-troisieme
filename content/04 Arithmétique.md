@@ -45,6 +45,17 @@ tags:
 > 3. 24 est un __________ de 8
 > 4. 9 est un __________ de 63
 
+> [!exercice] Exercice 3
+> Compléter les phrases suivantes par les mots « multiple » ou « diviseur » :
+> 1. 42 est un __________ de 6
+> 2. 8 est un __________ de 96
+> 3. 100 est un __________ de 4
+> 4. 11 est un __________ de 121
+> 5. 54 est un __________ de 6
+> 6. 13 est un __________ de 169
+> 7. 7 est un __________ de 84
+> 8. 90 est un __________ de 9
+
 > [!propriete] Propriété — Critères de divisibilité
 > Voici les principaux critères de divisibilité :
 > - Un entier est divisible par 2 quand il est pair donc quand son chiffre des unités est 0, 2, 4, 6 ou 8. Par exemple 110 est divisible par 2.
@@ -53,19 +64,27 @@ tags:
 > - Un entier est divisible par 9 quand la somme de ses chiffres est divisible par 9. Par exemple 494 est divisible par 9 car 4+9+5 = 18 et 18 est divisible par 9.
 > - Un entier est divisible par 10 quand son chiffre des unités est 0. Par exemple 110 est divisible par 10.
 
-> [!exercice] Exercice 3
+> [!exercice] Exercice 4
 > En utilisant les critères de divisibilité, indiquer si les nombres suivants sont divisibles par 2, 3, 5, 9 ou 10 :
 > 1. 246
 > 2. 1275
 > 3. 5634
 > 4. 7290
 
+> [!exercice] Exercice 5
+> En utilisant les critères de divisibilité, indiquer si les nombres suivants sont divisibles par 2, 3, 5, 9 ou 10 :
+> 1. 342
+> 2. 4185
+> 3. 6930
+> 4. 2223
+> 5. 1111
+
 ## Nombres premiers et décomposition en facteurs premiers
 
 > [!definition] Définition — Nombres premiers
 > Un nombre premier est un nombre qui n'a que deux diviseurs : 1 et lui-même.
 
-> [!exercice] Exercice 4
+> [!exercice] Exercice 6
 > Dire si les nombres suivants sont premiers ou non. S'ils ne sont pas premiers, donner au moins un diviseur autre que 1 et lui-même :
 > 1. 17
 > 2. 21
@@ -73,7 +92,7 @@ tags:
 > 4. 33
 > 5. 41
 
-> [!exercice] Exercice 5
+> [!exercice] Exercice 7
 > Il y a 25 nombres premiers entre 0 et 100. Trouvez-les.
 
 > [!propriete] Propriété
@@ -83,7 +102,7 @@ tags:
 > Décomposition de 1014 :
 > $$1014 = 2 \times 507 = 2 \times 3 \times 169 = 2 \times 3 \times 13^2$$
 
-> [!exercice] Exercice 6
+> [!exercice] Exercice 8
 > Décomposer en produit de facteurs premiers les nombres suivants :
 > 1. 24
 > 2. 45
@@ -99,7 +118,7 @@ tags:
 > [!exemple] Exemple
 > $$\frac{1014}{84} = \frac{2 \times 3 \times 13^2}{2^2 \times 3 \times 7} = \frac{13^2}{2 \times 7} = \frac{169}{14}$$
 
-> [!exercice] Exercice 7
+> [!exercice] Exercice 9
 > Rendre irréductibles les fractions suivantes en utilisant la décomposition en facteurs premiers :
 > 1. $\dfrac{24}{36}$
 > 2. $\dfrac{45}{75}$
@@ -133,11 +152,18 @@ tags:
 > - Diviseurs communs : 1, 2, 3, 6
 > - PGCD(18, 24) = 6
 
-> [!exercice] Exercice 8
+> [!exercice] Exercice 10
 > Calculer les PGCD suivants en listant les diviseurs :
 > 1. PGCD(12, 18)
 > 2. PGCD(20, 30)
 > 3. PGCD(15, 25)
+
+> [!exercice] Exercice 11
+> Calculer les PGCD suivants en listant les diviseurs :
+> 1. PGCD(16, 24)
+> 2. PGCD(28, 42)
+> 3. PGCD(36, 60)
+> 4. PGCD(14, 35)
 
 ### Méthode 2 : Par décomposition en facteurs premiers
 
@@ -153,38 +179,44 @@ tags:
 > - Facteurs premiers communs : $2$ et $3$
 > - PGCD(72, 48) = $2^3 \times 3^1 = 8 \times 3 = 24$
 
-> [!exercice] Exercice 9
+> [!exercice] Exercice 12
 > Calculer les PGCD suivants en utilisant la décomposition en facteurs premiers :
 > 1. PGCD(60, 84)
 > 2. PGCD(90, 126)
 > 3. PGCD(144, 96)
 
+> [!exercice] Exercice 13
+> Calculer les PGCD suivants en utilisant la décomposition en facteurs premiers :
+> 1. PGCD(120, 180)
+> 2. PGCD(150, 240)
+> 3. PGCD(210, 126)
+
 ## Exercices — Type brevet
 
-> [!exercice] Exercice 10
+> [!exercice] Exercice 14
 > Pierre a gagné 84 sucettes et 147 bonbons à un jeu. Étant très généreux, et ayant surtout très peur du dentiste, il décide de les partager avec des amis. Pour ne pas faire de jaloux, chacun doit avoir le même nombre de sucettes et le même nombre de bonbons.
 > 1. Combien de personnes au maximum pourront bénéficier de ces friandises (Pierre étant inclus dans ces personnes) ? Expliquer votre raisonnement.
 > 2. Combien de sucettes et de bonbons aura alors chaque personne ?
 
-> [!exercice] Exercice 11
+> [!exercice] Exercice 15
 > 1. Trouver le PGCD de 6 209 et 4 435 en détaillant la méthode.
 > 2. En utilisant le résultat de la question précédente, expliquer pourquoi la fraction $\dfrac{4435}{6209}$ n'est pas irréductible.
 > 3. Donner la fraction irréductible égale à $\dfrac{4435}{6209}$.
 
-> [!exercice] Exercice 12
+> [!exercice] Exercice 16
 > 1. Calculer le PGCD des nombres 135 et 210.
 > 2. Dans une salle de bains, on veut recouvrir le mur situé au-dessus de la baignoire avec un nombre entier de carreaux de faïence de forme carrée dont le côté est un nombre entier de centimètres le plus grand possible.
 >     1. Déterminer la longueur, en cm, du côté d'un carreau, sachant que le mur mesure 210 cm de hauteur et 135 cm de largeur.
 >     2. Combien faudra-t-il alors de carreaux ?
 
-> [!exercice] Exercice 13
+> [!exercice] Exercice 17
 > Pour le 1er Mai, Julie dispose de 182 brins de muguet et 78 roses. Elle veut faire le plus grand nombre de bouquets identiques en utilisant toutes ses fleurs. Combien de bouquets identiques pourra-t-elle faire ? Quelle sera la composition de chaque bouquet ?
 
-> [!exercice] Exercice 14
+> [!exercice] Exercice 18
 > 1. Quels sont les nombres inférieurs à 10 qui possèdent exactement trois diviseurs ? Il n'est pas nécessaire de justifier.
 > 2. « Je suis un nombre à trois chiffres dont la somme des chiffres vaut 13 et je possède exactement trois diviseurs. Qui suis-je ? »
 
-> [!exercice] Exercice 15
+> [!exercice] Exercice 19
 > Déterminer le nombre entier $N$ satisfaisant simultanément aux trois conditions ci-dessous :
 > - $N$ est divisible par 6
 > - $N$ n'est pas divisible par 8

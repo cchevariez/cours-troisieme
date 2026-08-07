@@ -34,21 +34,13 @@ tags:
 |                                    | Dans deux triangles semblables, les côtés homologues sont proportionnels.                                                  |
 |                                    | Si deux triangles ont leurs côtés proportionnels, alors ils sont semblables.                                               |
 
-> [!methode] Méthode — Travail à faire
-> - Pour chaque propriété du tableau, réaliser une figure géométrique claire.
-> - La figure doit illustrer précisément la propriété énoncée.
-> - Utiliser un crayon, une règle et un compas pour des figures nettes.
-> - Coder la figure (angles égaux, segments égaux, droites parallèles, etc.) selon les conventions usuelles.
-> - Utiliser des couleurs différentes pour distinguer les éléments importants.
-
 ## Rédaction
 
 Pour ne pas confondre recherche de solutions et rédaction, prenons un exemple.
 
 > [!exercice] Exercice 1
-> Voici un labyrinthe simple.
 >
-> ![[laby.png]]
+> ![[laby.png|400]]
 >
 > 1. Résoudre le labyrinthe.
 > 2. Expliquer comment vous avez résolu ce labyrinthe. Pas en détail mais expliquer votre technique/méthode.
@@ -68,14 +60,14 @@ La rédaction suit des étapes bien déterminées :
 > [!exercice] Exercice 2
 > On considère le parallélogramme $ABCD$ et la droite $\mathcal{D}$ telle que $\mathcal{D} \perp (AB)$.
 >
-> <iframe scrolling="no" title="Parallélogramme ABCD et droite perpendiculaire" src="https://www.geogebra.org/material/iframe/id/nqjxsfsm/width/800/height/500/border/888888/sfsb/true/smb/false/stb/false/stbh/false/ai/false/asb/false/sri/false/rc/false/ld/false/sdz/true/ctl/false" width="100%" height="420" style="border:0px;"></iframe>
+> ![[chap2-ex2.png|400]]
 >
 > Démontrer que $\mathcal{D} \perp (CD)$.
 
 > [!exercice] Exercice 3
 > On considère $\mathcal{C}$ le cercle de centre $O$ et de diamètre $[AB]$. Soit $C$ un point du cercle $\mathcal{C}$ distinct de $A$ et $B$ et la droite $\mathcal{D}$ telle que $\mathcal{D} \perp (BC)$.
 >
-> <iframe src="https://www.geogebra.org/classic/fsduxsur?embed" width="800" height="600" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
+> ![[chap2-ex3.png|400]]
 >
 > Démontrer que $\mathcal{D} \sslash (AC)$.
 
@@ -96,7 +88,7 @@ Pour le moment, vous connaissez tous le théorème de Pythagore ainsi que sa ré
 > [!exercice] Exercice 4
 > On considère le cercle $\mathcal{C}$ de diamètre $[AB]$ et $C \in \mathcal{C}$.
 >
-> <iframe src="https://www.geogebra.org/classic/ux5puadg?embed" width="800" height="600" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
+> ![[chap2-ex4.png|300]]
 >
 > Déterminer la longueur de $[AC]$.
 
@@ -108,7 +100,7 @@ Pour le moment, vous connaissez tous le théorème de Pythagore ainsi que sa ré
 > [!exercice] Exercice 6
 > On considère un quadrilatère $ABCD$ tel que $(AB) \parallel (DC)$ et $AB = DC$. On note $I$ le point d'intersection des diagonales $[AC]$ et $[BD]$.
 >
-> <iframe src="https://www.geogebra.org/classic/fpyd3b4v?embed" width="800" height="400" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
+> ![[chap2-ex6.png|300]]
 >
 > 1. Démontrer que $ABCD$ est un parallélogramme.
 > 2. En déduire que $I$ est le milieu de $[AC]$ et de $[BD]$.
@@ -116,14 +108,14 @@ Pour le moment, vous connaissez tous le théorème de Pythagore ainsi que sa ré
 > [!exercice] Exercice 7
 > Soit $ABC$ un triangle isocèle en $A$ (c'est-à-dire $AB = AC$). On note $I$ le milieu du segment $[BC]$.
 >
-> ![[geom_mediatrice.png]]
+> ![[geom_mediatrice.png|300]]
 >
 > Démontrer que la droite $(AI)$ est la médiatrice du segment $[BC]$.
 
 > [!exercice] Exercice 8
 > Les droites $(AB)$ et $(CD)$ sont coupées par la sécante $(EF)$, respectivement en $I$ et $J$. On donne $\widehat{EIA} = 58°$ et $\widehat{EJC} = 58°$.
 >
-> ![[geom_angles_paralleles.png]]
+> ![[chap2-ex8.png|300]]
 >
 > 1. Ces deux angles sont-ils alternes-internes, correspondants, ou ni l'un ni l'autre ? Justifier à l'aide de la figure.
 > 2. En déduire que $(AB) \parallel (CD)$.
@@ -131,7 +123,7 @@ Pour le moment, vous connaissez tous le théorème de Pythagore ainsi que sa ré
 > [!exercice] Exercice 9
 > On considère le cercle $\mathcal{C}$ de centre $O$ et de diamètre $[AB]$ avec $AB = 10$ cm. Soit $C$ un point du cercle $\mathcal{C}$ tel que $AC = 6$ cm.
 >
-> ![[geom_pythagore_demicercle.png]]
+> ![[geom_pythagore_demicercle.png|300]]
 >
 > 1. Démontrer que le triangle $ABC$ est rectangle en $C$.
 > 2. En déduire la longueur $BC$.
@@ -139,7 +131,7 @@ Pour le moment, vous connaissez tous le théorème de Pythagore ainsi que sa ré
 > [!exercice] Exercice 10
 > Un triangle $MNP$ est tel que $MN = 5$ cm, $NP = 12$ cm et $MP = 13$ cm.
 >
-> ![[geom_pythagore_reciproque.png]]
+> ![[geom_pythagore_reciproque.png|400]]
 >
 > 1. Démontrer que le triangle $MNP$ est rectangle. Préciser en quel sommet.
 > 2. En déduire l'aire du triangle $MNP$.

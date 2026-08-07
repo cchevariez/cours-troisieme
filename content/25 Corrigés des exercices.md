@@ -217,18 +217,50 @@ $$\mathcal{A} = \frac{MN \times NP}{2} = \frac{5 \times 12}{2} = 30 \text{ cm}^2
 - $3x^2+6x-2x(x^2-5x) = 3x^2+6x-2x^3+10x^2 = -2x^3+13x^2+6x$
 
 **Exercice 2**
+- $5(3x+2) = 15x+10$
+- $-4(2x-5) = -8x+20$
+- $6(-x+7) = -6x+42$
+- $-(4x-9) = -4x+9$
+- $3x(2x-5) = 6x^2-15x$
+- $-5x(-3x+4) = 15x^2-20x$
+- $4(2x+3)-5(x-1) = 8x+12-5x+5 = 3x+17$
+- $-2(3x-4)+3(2x+1) = -6x+8+6x+3 = 11$
+
+**Exercice 3**
+- $7x-3(2x+4)+5 = 7x-6x-12+5 = x-7$
+- $-2x+4(3x-2)-3x+7 = -2x+12x-8-3x+7 = 7x-1$
+- $5x(x-3)+2x(4-x) = 5x^2-15x+8x-2x^2 = 3x^2-7x$
+- $-3x^2+2x(5x-3) = -3x^2+10x^2-6x = 7x^2-6x$
+- $4x(x+2)-3x(x-5) = 4x^2+8x-3x^2+15x = x^2+23x$
+- $-2(4x-3)-(5x+1)-3(2x-4) = -8x+6-5x-1-6x+12 = -19x+17$
+
+**Exercice 4**
 - $A = -3(x+4) + (2x-6)(-8x + 4) = -3x-12+(-16x^2+56x-24) = -16x^2+53x-36$
 - $B = 7(4x-4) - 8(-4x-2) = 28x-28+32x+16 = 60x-12$
 - $C = (6x-6)(-2x+3) + (6x+2)(-2x-1) = (-12x^2+30x-18)+(-12x^2-10x-2) = -24x^2+20x-20$
 - $D = -2(6x-1)(2x+3) = -2(12x^2+16x-3) = -24x^2-32x+6$
 - $E = 6x^2 +4x -(4x^2+2x-6) = 2x^2+2x+6$
 
-**Exercice 3**
+**Exercice 5**
+- $A = (x+3)(x+5) = x^2+5x+3x+15 = x^2+8x+15$
+- $B = (2x-1)(x+4) = 2x^2+8x-x-4 = 2x^2+7x-4$
+- $C = (3x+2)(2x-5) = 6x^2-15x+4x-10 = 6x^2-11x-10$
+- $D = (-x+4)(3x-2) = -3x^2+2x+12x-8 = -3x^2+14x-8$
+- $E = (5x-3)(-2x+1) = -10x^2+5x+6x-3 = -10x^2+11x-3$
+- $F = -2(x+3)(x-4) = -2(x^2-x-12) = -2x^2+2x+24$
+
+**Exercice 6**
+- $G = (x+2)(x-3) + (2x-1)(x+4) = (x^2-x-6)+(2x^2+7x-4) = 3x^2+6x-10$
+- $H = (3x-2)(x+5) - (x-1)(2x+3) = (3x^2+13x-10)-(2x^2+x-3) = x^2+12x-7$
+- $I = 5(2x-3) - (x+4)(3x-2) = (10x-15)-(3x^2+10x-8) = -3x^2-7$
+- $J = -3(x-2)(2x+5) = -3(2x^2+x-10) = -6x^2-3x+30$
+
+**Exercice 7**
 $$(a+b)^2 = (a+b)(a+b) = a^2+ab+ab+b^2 = a^2+2ab+b^2$$
 $$(a-b)^2 = (a-b)(a-b) = a^2-ab-ab+b^2 = a^2-2ab+b^2$$
 $$(a+b)(a-b) = a^2-ab+ab-b^2 = a^2-b^2$$
 
-**Exercice 4**
+**Exercice 8**
 1. $(3x+2)^2 = 9x^2+12x+4$
 2. $(2x-3)^2 = 4x^2-12x+9$
 3. $(6x-4)(6x+4) = 36x^2-16$
@@ -247,24 +279,41 @@ $$(a+b)(a-b) = a^2-ab+ab-b^2 = a^2-b^2$$
 3. 24 est un **multiple** de 8 (car $24 = 8 \times 3$)
 4. 9 est un **diviseur** de 63 (car $63 = 9 \times 7$)
 
-**Exercice 3**
+**Exercice 3** *(rédigé pour cette édition)*
+1. 42 est un **multiple** de 6 (car $42 = 6 \times 7$)
+2. 8 est un **diviseur** de 96 (car $96 = 8 \times 12$)
+3. 100 est un **multiple** de 4 (car $100 = 4 \times 25$)
+4. 11 est un **diviseur** de 121 (car $121 = 11 \times 11$)
+5. 54 est un **multiple** de 6 (car $54 = 6 \times 9$)
+6. 13 est un **diviseur** de 169 (car $169 = 13 \times 13$)
+7. 7 est un **diviseur** de 84 (car $84 = 7 \times 12$)
+8. 90 est un **multiple** de 9 (car $90 = 9 \times 10$)
+
+**Exercice 4**
 1. 246 : divisible par 2 (oui), 3 (oui, $2+4+6=12$), 5 (non), 9 (non), 10 (non)
 2. 1275 : divisible par 2 (non), 3 (oui, $1+2+7+5=15$), 5 (oui), 9 (non), 10 (non)
 3. 5634 : divisible par 2 (oui), 3 (oui, $5+6+3+4=18$), 5 (non), 9 (oui), 10 (non)
 4. 7290 : divisible par 2 (oui), 3 (oui, $7+2+9+0=18$), 5 (oui), 9 (oui), 10 (oui)
 
-**Exercice 4**
+**Exercice 5** *(rédigé pour cette édition)*
+1. 342 : divisible par 2 (oui), 3 (oui, $3+4+2=9$), 5 (non), 9 (oui, $9$), 10 (non)
+2. 4185 : divisible par 2 (non), 3 (oui, $4+1+8+5=18$), 5 (oui), 9 (oui, $18$), 10 (non)
+3. 6930 : divisible par 2 (oui), 3 (oui, $6+9+3+0=18$), 5 (oui), 9 (oui, $18$), 10 (oui)
+4. 2223 : divisible par 2 (non), 3 (oui, $2+2+2+3=9$), 5 (non), 9 (oui, $9$), 10 (non)
+5. 1111 : divisible par 2 (non), 3 (non, $1+1+1+1=4$), 5 (non), 9 (non), 10 (non) — 1111 n'est divisible par aucun de ces nombres
+
+**Exercice 6**
 1. 17 : **premier** (seuls diviseurs : 1 et 17)
 2. 21 : **non premier**, diviseur 3 (car $21 = 3 \times 7$)
 3. 29 : **premier**
 4. 33 : **non premier**, diviseur 3 (car $33 = 3 \times 11$)
 5. 41 : **premier**
 
-**Exercice 5** *(rédigé pour cette édition)*
+**Exercice 7** *(rédigé pour cette édition)*
 
 Les 25 nombres premiers entre 0 et 100 sont : 2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61, 67, 71, 73, 79, 83, 89, 97.
 
-**Exercice 6**
+**Exercice 8**
 1. $24 = 2^3 \times 3$
 2. $45 = 3^2 \times 5$
 3. $72 = 2^3 \times 3^2$
@@ -273,52 +322,63 @@ Les 25 nombres premiers entre 0 et 100 sont : 2, 3, 5, 7, 11, 13, 17, 19, 23, 29
 6. $2565 = 3^3 \times 5 \times 19$
 7. $158 = 2 \times 79$ (79 est premier)
 
-**Exercice 7**
+**Exercice 9**
 1. $\dfrac{24}{36} = \dfrac{2^3 \times 3}{2^2 \times 3^2} = \dfrac{2}{3}$
 2. $\dfrac{45}{75} = \dfrac{3^2 \times 5}{3 \times 5^2} = \dfrac{3}{5}$
 3. $\dfrac{72}{108} = \dfrac{2^3 \times 3^2}{2^2 \times 3^3} = \dfrac{2}{3}$
 4. $\dfrac{98}{140} = \dfrac{2 \times 7^2}{2^2 \times 5 \times 7} = \dfrac{7}{2 \times 5} = \dfrac{7}{10}$
 
-**Exercice 8**
+**Exercice 10**
 1. PGCD(12, 18) : diviseurs communs 1, 2, 3, 6 → **PGCD = 6**
 2. PGCD(20, 30) : diviseurs communs 1, 2, 5, 10 → **PGCD = 10**
 3. PGCD(15, 25) : diviseurs communs 1, 5 → **PGCD = 5**
 
-**Exercice 9**
+**Exercice 11** *(rédigé pour cette édition)*
+1. PGCD(16, 24) : diviseurs communs 1, 2, 4, 8 → **PGCD = 8**
+2. PGCD(28, 42) : diviseurs communs 1, 2, 7, 14 → **PGCD = 14**
+3. PGCD(36, 60) : diviseurs communs 1, 2, 3, 4, 6, 12 → **PGCD = 12**
+4. PGCD(14, 35) : diviseurs communs 1, 7 → **PGCD = 7**
+
+**Exercice 12**
 1. PGCD(60, 84) : $60 = 2^2 \times 3 \times 5$, $84 = 2^2 \times 3 \times 7$ → PGCD $= 2^2 \times 3 = 12$
 2. PGCD(90, 126) : $90 = 2 \times 3^2 \times 5$, $126 = 2 \times 3^2 \times 7$ → PGCD $= 2 \times 3^2 = 18$
 3. PGCD(144, 96) : $144 = 2^4 \times 3^2$, $96 = 2^5 \times 3$ → PGCD $= 2^4 \times 3 = 48$
 
-**Exercice 10** *(rédigé pour cette édition)*
+**Exercice 13** *(rédigé pour cette édition)*
+1. PGCD(120, 180) : $120 = 2^3 \times 3 \times 5$, $180 = 2^2 \times 3^2 \times 5$ → PGCD $= 2^2 \times 3 \times 5 = 60$
+2. PGCD(150, 240) : $150 = 2 \times 3 \times 5^2$, $240 = 2^4 \times 3 \times 5$ → PGCD $= 2 \times 3 \times 5 = 30$
+3. PGCD(210, 126) : $210 = 2 \times 3 \times 5 \times 7$, $126 = 2 \times 3^2 \times 7$ → PGCD $= 2 \times 3 \times 7 = 42$
+
+**Exercice 14** *(rédigé pour cette édition)*
 
 Le nombre maximal de personnes est PGCD(84,147). $84=2^2\times3\times7$, $147=3\times7^2$, donc PGCD $=3\times7=21$.
 1. Au maximum **21 personnes** pourront bénéficier des friandises.
 2. Chaque personne aura $84 \div 21 = 4$ sucettes et $147 \div 21 = 7$ bonbons.
 
-**Exercice 11** *(rédigé pour cette édition)*
+**Exercice 15** *(rédigé pour cette édition)*
 
 1. Algorithme d'Euclide : $6209 = 1 \times 4435 + 1774$ ; $4435 = 2 \times 1774 + 887$ ; $1774 = 2 \times 887 + 0$. Le dernier reste non nul est 887, donc PGCD(6209, 4435) $= 887$.
 2. Comme PGCD(6209, 4435) $= 887 \neq 1$, le numérateur et le dénominateur ont un diviseur commun autre que 1 : la fraction $\dfrac{4435}{6209}$ n'est donc pas irréductible.
 3. $4435 = 887 \times 5$ et $6209 = 887 \times 7$, donc $\dfrac{4435}{6209} = \dfrac{5}{7}$, qui est irréductible (5 et 7 sont premiers entre eux).
 
-**Exercice 12** *(rédigé pour cette édition)*
+**Exercice 16** *(rédigé pour cette édition)*
 
 1. $135 = 3^3 \times 5$ et $210 = 2 \times 3 \times 5 \times 7$, donc PGCD(135, 210) $= 3 \times 5 = 15$.
 2.
     1. Le côté du carreau le plus grand possible qui divise à la fois 210 cm et 135 cm est le PGCD : **15 cm**.
     2. Il faudra $\dfrac{210}{15} \times \dfrac{135}{15} = 14 \times 9 = 126$ carreaux.
 
-**Exercice 13** *(rédigé pour cette édition)*
+**Exercice 17** *(rédigé pour cette édition)*
 
 $182 = 2 \times 7 \times 13$ et $78 = 2 \times 3 \times 13$, donc PGCD(182, 78) $= 2 \times 13 = 26$.
 Julie pourra faire **26 bouquets** identiques, chacun composé de $182 \div 26 = 7$ brins de muguet et $78 \div 26 = 3$ roses.
 
-**Exercice 14** *(rédigé pour cette édition)*
+**Exercice 18** *(rédigé pour cette édition)*
 
 1. Un nombre a exactement 3 diviseurs si et seulement s'il est le carré d'un nombre premier (ses diviseurs sont alors $1$, $p$ et $p^2$). Les carrés de nombres premiers inférieurs à 10 sont $2^2=4$ et $3^2=9$.
 2. On cherche un carré de nombre premier à trois chiffres dont la somme des chiffres vaut 13. En testant les carrés des nombres premiers entre 11 et 31 (bornes pour rester à trois chiffres) : $11^2=121$ (somme 4), $13^2=169$ (somme 16), $17^2=289$ (somme 19), $19^2=361$ (somme 10), $23^2=529$ (somme 16), $29^2=841$ (somme $8+4+1=13$ ✓), $31^2=961$ (somme 16). Le nombre cherché est donc **841** ($=29^2$).
 
-**Exercice 15** *(rédigé pour cette édition)*
+**Exercice 19** *(rédigé pour cette édition)*
 
 $N$ est divisible par 6 donc par 2 et par 3 : $N$ contient au moins les facteurs premiers 2 et 3. $N$ n'est pas divisible par 8 $=2^3$, donc l'exposant de 2 dans $N$ vaut 1 ou 2. Le nombre de diviseurs de $N=2^a\times3^b\times\ldots$ est $15=(a+1)(b+1)\ldots$ Comme $15=3\times5$ et qu'il faut au moins les deux facteurs premiers 2 et 3, on a $(a+1)(b+1)=15$. Avec $a\le 2$, la seule possibilité est $a+1=3$ (soit $a=2$) et $b+1=5$ (soit $b=4$).
 $$N = 2^2 \times 3^4 = 4 \times 81 = 324$$
@@ -336,31 +396,57 @@ Vérification : $324 \div 6 = 54$ (divisible par 6), $324 \div 8 = 40,5$ (non di
 
 **Exercice 5 :** Ligne 1 : Coeff = 0,80 et $PF = 120$ €. Ligne 2 : Coeff = 1,15 et $PF = 92$ €. Ligne 3 : $PI = 100$ €. Ligne 4 : Opération = augmentation de 12% et $PF = 280$ €.
 
-**Exercice 6 :** 1) Longueur réelle $= 15 \times 2500 = 37\,500$ cm $= 375$ m. 2) Longueur sur plan $= \frac{200\,000}{2500} = 80$ cm.
+**Exercice 6 :** *(rédigé pour cette édition)* 1) $60 \times 0,8 = 48$ €. 2) $45 \times 1,12 = 50,40$ €. 3) $1\,800 \times 1,03 = 1\,854$ €. 4) $250 \times 0,92 = 230$ articles. 5) $12\,000 \times 1,025 = 12\,300$ habitants. 6) $90 \times 0,55 = 49,50$ €.
 
-**Exercice 7 :** $1,5$ km $= 150\,000$ cm donc échelle $= \frac{5}{150\,000} = \frac{1}{30\,000}$.
+**Exercice 7 :** *(rédigé pour cette édition)* 1) $PI = \frac{63}{0,9} = 70$ €. 2) $PI = \frac{2\,500}{1,25} = 2\,000$ €. 3) $PI = \frac{105}{0,7} = 150$ €. 4) $PI = \frac{8\,400}{1,05} = 8\,000$ habitants.
 
-**Exercice 8 :** 1) km/h : vitesse (distance/temps). 2) W.h : énergie (puissance × temps). 3) $m^3$ : volume ($m \times m \times m$). 4) L/min : débit (volume/temps). 5) m/s : vitesse (distance/temps).
+**Exercice 8 :** *(rédigé pour cette édition)* 1) $\frac{15}{100}\times200 = 30$. 2) $\frac{8}{100}\times350 = 28$. 3) $\frac{60}{100}\times45 = 27$. 4) $\frac{120}{100}\times80 = 96$. 5) $\frac{2,5}{100}\times4\,000 = 100$.
 
-**Exercice 9 :** 1) $100$ min $= \frac{5}{3}$ h donc $v = \frac{50}{\frac{5}{3}} = 30$ km/h. 2) $t = \frac{45}{30} = 1,5$ h $= 1$ h $30$ min.
+**Exercice 9 :** 1) Longueur réelle $= 15 \times 2500 = 37\,500$ cm $= 375$ m. 2) Longueur sur plan $= \frac{200\,000}{2500} = 80$ cm.
 
-**Exercice 10 :** 1) $1\,620$ m³/h $= \frac{1\,620\,000}{3600}$ L/s $= 450$ L/s et $1\,620 \times 24 = 38\,880$ m³/jour. 2) $v = \frac{50}{25} = 2$ km/h. 3) $t = \frac{0,275}{2} = 0,1375$ h $= 8,25$ min $= 8$ min $15$ s.
+**Exercice 10 :** $1,5$ km $= 150\,000$ cm donc échelle $= \frac{5}{150\,000} = \frac{1}{30\,000}$.
 
-**Exercice 11 :** 1) $E = 0,19 \times 2,5 = 0,475$ kWh. 2) $E = 190 \times 9\,000 = 1\,710\,000$ J.
+**Exercice 11 :** 1) km/h : vitesse (distance/temps). 2) W.h : énergie (puissance × temps). 3) $m^3$ : volume ($m \times m \times m$). 4) L/min : débit (volume/temps). 5) m/s : vitesse (distance/temps).
 
-**Exercice 12 :** 1) $V = (1,5)^3 = 3,375$ m³. 2) $V = 3\,375$ dm³ $= 3\,375\,000$ cm³ $= 3\,375$ L.
+**Exercice 12 :** 1) $100$ min $= \frac{5}{3}$ h donc $v = \frac{50}{\frac{5}{3}} = 30$ km/h. 2) $t = \frac{45}{30} = 1,5$ h $= 1$ h $30$ min.
 
-**Exercice 13 :** 1) $v = \frac{574,8}{3,6} \approx 160$ m/s. 2) $v = 143,14 \times 3,6 = 515,30$ km/h.
+**Exercice 13 :** 1) $1\,620$ m³/h $= \frac{1\,620\,000}{3600}$ L/s $= 450$ L/s et $1\,620 \times 24 = 38\,880$ m³/jour. 2) $v = \frac{50}{25} = 2$ km/h. 3) $t = \frac{0,275}{2} = 0,1375$ h $= 8,25$ min $= 8$ min $15$ s.
 
-**Exercice 14 :** 1) $d = 188 \times 33,5 = 6\,298$ km. 2) $t = \frac{5\,943}{1\,698} = 3,5$ h $= 3$ h $30$ min. 3) $v = \frac{5\,967}{7,75} \approx 770$ km/h.
+**Exercice 14 :** 1) $E = 0,19 \times 2,5 = 0,475$ kWh. 2) $E = 190 \times 9\,000 = 1\,710\,000$ J.
 
-**Exercice 15 :** 1) $600$ tr/min $= 10$ tr/s. 2) $600 \times 3,5 = 2\,100$ tours. 3) $t = \frac{3\,360}{600} = 5,6$ min $= 5$ min $36$ s.
+**Exercice 15 :** 1) $V = (1,5)^3 = 3,375$ m³. 2) $V = 3\,375$ dm³ $= 3\,375\,000$ cm³ $= 3\,375$ L.
 
-**Exercice 16 :** $t = \frac{150\,000\,000}{300\,000} = 500$ s $= 8$ min $20$ s.
+**Exercice 16 :** 1) $v = \frac{574,8}{3,6} \approx 160$ m/s. 2) $v = 143,14 \times 3,6 = 515,30$ km/h.
+
+**Exercice 17 :** 1) $d = 188 \times 33,5 = 6\,298$ km. 2) $t = \frac{5\,943}{1\,698} = 3,5$ h $= 3$ h $30$ min. 3) $v = \frac{5\,967}{7,75} \approx 770$ km/h.
+
+**Exercice 18 :** 1) $600$ tr/min $= 10$ tr/s. 2) $600 \times 3,5 = 2\,100$ tours. 3) $t = \frac{3\,360}{600} = 5,6$ min $= 5$ min $36$ s.
+
+**Exercice 19 :** $t = \frac{150\,000\,000}{300\,000} = 500$ s $= 8$ min $20$ s.
 
 ## Corrigé chapitre 6 — Factorisation
 
-**Exercice 1**
+**Exercice 1** *(rédigé pour cette édition)*
+$$\begin{align*}
+21x+14 &= 7\times3x+7\times2 = 7(3x+2)
+\end{align*}$$
+$$\begin{align*}
+9x-9 &= 9\times x-9\times1 = 9(x-1)
+\end{align*}$$
+$$\begin{align*}
+8x^2+12x &= 4x\times2x+4x\times3 = 4x(2x+3)
+\end{align*}$$
+$$\begin{align*}
+10x^2-6x &= 2x\times5x-2x\times3 = 2x(5x-3)
+\end{align*}$$
+$$\begin{align*}
+6x-4 &= 2\times3x-2\times2 = 2(3x-2)
+\end{align*}$$
+$$\begin{align*}
+x^2-x &= x\times x-x\times1 = x(x-1)
+\end{align*}$$
+
+**Exercice 2**
 $$\begin{align*}
 (3x+7)(2x-4)+(3x+7)(4x+2) &= (3x+7)[(2x-4)+(4x+2)] = (3x+7)(6x-2)
 \end{align*}$$
@@ -380,7 +466,7 @@ $$\begin{align*}
 (x-2)^2-(x-2)(3x+4) &= (x-2)[(x-2)-(3x+4)] = (x-2)(-2x-6)
 \end{align*}$$
 
-**Exercice 2**
+**Exercice 3**
 $$\begin{align*}
 A(x) &= 9x^2+42x+49 = (3x)^2+2 \times (3x) \times (7)+(7)^2 = (3x+7)^2
 \end{align*}$$
@@ -391,7 +477,27 @@ $$\begin{align*}
 C(x) &= 9x^2-64 = (3x)^2-(8)^2 = (3x-8)(3x+8)
 \end{align*}$$
 
-**Exercice 3**
+**Exercice 4** *(rédigé pour cette édition)*
+$$\begin{align*}
+x^2+14x+49 &= x^2+2\times x \times 7+7^2 = (x+7)^2
+\end{align*}$$
+$$\begin{align*}
+x^2+20x+100 &= x^2+2\times x \times 10+10^2 = (x+10)^2
+\end{align*}$$
+$$\begin{align*}
+x^2-18x+81 &= x^2-2\times x \times 9+9^2 = (x-9)^2
+\end{align*}$$
+$$\begin{align*}
+x^2-10x+25 &= x^2-2\times x \times 5+5^2 = (x-5)^2
+\end{align*}$$
+$$\begin{align*}
+x^2-16 &= x^2-4^2 = (x-4)(x+4)
+\end{align*}$$
+$$\begin{align*}
+4x^2-25 &= (2x)^2-5^2 = (2x-5)(2x+5)
+\end{align*}$$
+
+**Exercice 5**
 $$\begin{align*}
 (3x-5)(4x+5)-(4x+5)(2x+7) &= (4x+5)[(3x-5)-(2x+7)] = (4x+5)(x-12)
 \end{align*}$$
@@ -423,7 +529,7 @@ $$\begin{align*}
 15x^2-30x+15 &= 15(x^2-2x+1) = 15(x-1)^2
 \end{align*}$$
 
-**Exercice 4**
+**Exercice 6**
 $$\begin{align*}
 A(x) &= (2x-5)(7+3x)-(2x-5)^2 = (2x-5)[(7+3x)-(2x-5)] = (2x-5)(x+12)
 \end{align*}$$

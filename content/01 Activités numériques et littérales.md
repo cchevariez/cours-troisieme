@@ -3,7 +3,7 @@ chapitre: 1
 tags:
   - maths/troisieme
 ---
-
+ok 
 # Activités numériques et littérales
 
 **Objectif :** Cette fiche a pour but de vous donner les règles de rédaction pour les activités numériques et littérales.
