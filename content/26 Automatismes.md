@@ -6,59 +6,6 @@ tags:
 
 # Automatismes
 
-## Présentation
-
-Depuis la session 2022, l'épreuve de mathématiques du brevet commence par une partie « automatismes » : 20 minutes, **sans calculatrice**, 6 points, portant sur l'ensemble des notions du cycle 4 (5e, 4e, 3e). Ce chapitre propose de travailler ces automatismes toute l'année, à raison d'une fiche de 15 minutes par semaine sur 25 semaines, en classe si le temps le permet ou en autonomie sinon.
-
-**Deux règles de construction :**
-1. **On ne teste jamais une notion avant le cours correspondant.** Les automatismes liés aux chapitres 1 à 14 n'apparaissent qu'après que le chapitre a été traité en classe. En revanche, les automatismes de cycle 4 sans chapitre dédié dans ce cours (fractions, relatifs, proportionnalité simple, etc., déjà vus en 5e/4e) sont travaillés dès la semaine 1.
-2. **C'est additif, pas remplaçant.** Une fois qu'un thème entre en rotation, il continue à revenir régulièrement dans les semaines suivantes — l'objectif est de ne plus jamais le perdre d'ici l'épreuve, pas de le travailler une seule fois.
-
-Chaque semaine propose deux fiches indépendantes de 10 questions courtes (Fiche A et Fiche B), portant sur exactement les mêmes cases thématiques mais avec des valeurs numériques différentes — la répétition du type de question n'est pas un problème, c'est même l'objectif. Chaque fiche est suivie immédiatement de son corrigé.
-
-**Conventions de rédaction des résultats**, sauf indication contraire dans l'énoncé :
-- Un résultat fractionnaire est donné sous forme de fraction **irréductible**.
-- Un résultat qui comporte $\pi$ est donné sous sa **valeur exacte** (par exemple $9\pi$ cm²), sauf si l'énoncé demande explicitement une valeur arrondie.
-- Un résultat décimal exact est donné tel quel ; s'il ne « tombe pas juste », l'énoncé précise l'arrondi attendu (au dixième, au centième...).
-
-## Légende des thèmes
-
-**Cycle 4 (dès la semaine 1) :**
-
-| Code | Thème |
-|---|---|
-| `CM` | Calcul mental et priorités opératoires |
-| `FR` | Fractions (addition, soustraction, simplification) |
-| `REL` | Nombres relatifs |
-| `PROP` | Proportionnalité et pourcentages |
-| `PUI` | Puissances de 10, écriture scientifique |
-| `CONV` | Conversions d'unités |
-| `AP` | Aires et périmètres usuels |
-| `LEC` | Lecture de graphiques et de tableaux |
-
-**Troisième (déblocage progressif) :** `Ch1` à `Ch14`, correspondant aux chapitres de ce cours.
-
-## Calendrier de déblocage (par défaut, à ajuster selon votre progression réelle)
-
-| Chapitre | Semaines de cours | Semaine de déblocage |
-|---|---|---|
-| 1. Activités numériques et littérales | S1–S2 | S3 |
-| 2. Rappels de géométrie | S3–S4 | S5 |
-| 3. Le développement | S5–S6 | S7 |
-| 4. Arithmétique | S7–S8 | S9 |
-| 5. Proportionnalité et grandeurs composées | S9–S10 | S11 |
-| 6. Factorisation | S11 | S12 |
-| 7. Triangles semblables et Thalès | S12–S13 | S14 |
-| 8. Notion de fonction | S14 | S15 |
-| 9. Équations et inéquations | S15–S16 | S17 |
-| 10. Fonctions affines et linéaires | S17 | S18 |
-| 11. Trigonométrie | S18–S19 | S20 |
-| 12. Statistiques - Probabilité | S20 | S21 |
-| 13. Homothétie | S21 | S22 |
-| 14. Géométrie dans l'espace | S22–S23 | S24 |
-
-À partir de la semaine 24, plus aucun nouveau thème : les fiches deviennent entièrement cumulatives, en révision directe de l'épreuve.
-
 ## Rappels de méthode (cycle 4)
 
 > [!methode] Méthode — `CM` Priorités opératoires

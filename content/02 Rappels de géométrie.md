@@ -85,10 +85,13 @@ Pour le moment, vous connaissez tous le théorème de Pythagore ainsi que sa ré
 > [!remarque] Remarque
 > Veillez bien à vérifier les conditions d'application d'un théorème avant de l'appliquer. Dans les exercices simples, ces conditions sont données mais dans les exercices évolués ce sera à vous de les vérifier. La plupart des erreurs viennent de là.
 
+> [!demonstration] Démonstration animée — Triangle inscrit dans un demi-cercle
+> ![[triangle_demi_cercle.mp4]]
+
 > [!exercice] Exercice 4
 > On considère le cercle $\mathcal{C}$ de diamètre $[AB]$ et $C \in \mathcal{C}$.
 >
-> ![[chap2-ex4.png|300]]
+> <iframe src="https://www.geogebra.org/classic/ux5puadg?embed" width="600" height="600" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
 >
 > Déterminer la longueur de $[AC]$.
 

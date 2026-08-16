@@ -15,7 +15,7 @@ tags:
 
 Voyons les règles de rédaction à travers un exemple.
 
-![[calcul1.png]]
+![[calcul1.png|630]]
 
 Quel est l'intérêt de souligner le calcul que vous allez faire à chaque ligne ?
 - Pour vous :
@@ -25,7 +25,7 @@ Quel est l'intérêt de souligner le calcul que vous allez faire à chaque ligne
 
 Pour les calculs littéraux, les règles de rédaction sont les mêmes. On peut, toutefois, rajouter des éléments d'aide à la lecture du calcul comme les flèches. Voici un exemple de développement.
 
-![[calcul2.png]]
+![[calcul2.png|630]]
 
 ## Vérifier que deux expressions sont égales
 
@@ -56,11 +56,11 @@ Voici un exemple sur un programme de calcul.
 
 La première question est de type « Vérifier que deux expressions sont égales pour **une valeur donnée.** ». On va donc calculer dans une première colonne, la valeur retournée par le programme A en choisissant 4 comme nombre de départ. Dans la deuxième colonne, on fera pareil pour le programme B puis on comparera les résultats obtenus.
 
-![[calcul3.png|630]]
+![[calcul3.png|450]]
 
 La deuxième question est de type « Vérifier que deux expressions sont égales pour **toutes les valeurs.** ». Compte tenu qu'aucune valeur n'est spécifiée pour le nombre de départ, on la notera $x$. On va donc déterminer dans une première colonne, l'expression littérale renvoyée par le programme A. Dans la deuxième colonne, on fera pareil pour le programme B puis on comparera les formes développées des deux expressions.
 
-![[calcul4.png|633]]
+![[calcul4.png|450]]
 
 ## Rédaction d'un problème ouvert
 
@@ -68,7 +68,7 @@ Pour faire court, on appelle problème ouvert, un problème où aucun chemin de 
 
 Voici un exemple de ce type d'exercice (extrait du DNB 2019) :
 
-![[brevet2019.png]]
+![[brevet2019.png|500]]
 
 Au brouillon, faire son schéma de résolution. Ce schéma indiquera les grandes étapes de notre raisonnement.
 
@@ -153,12 +153,13 @@ On ne peut transporter que 500 kg à la fois. Or un cylindre pèse 198 kg, on ne
 >
 > | Document 1 | Documents 2 à 4 |
 > |---|---|
-> | ![[piscine_CE_2019.png]]<br>**Caractéristiques techniques :**<br>- Hauteur de l'eau : 65 cm<br>- Consommation électrique moyenne de la pompe : 3,42 kWh par jour.<br>- Prix (piscine + pompe) : 80 € | **Document 2**<br>Prix d'un kWh : 0,15 €.<br>Le kWh (kilowatt-heure) est l'unité de mesure de l'énergie électrique.<br><br>**Document 3**<br>Prix d'un m³ d'eau : 2,03 €.<br><br>**Document 4**<br>Le volume d'un cylindre est donné par la formule suivante : $V = \pi \times r^2 \times h$ où $r$ est le rayon du cylindre et $h$ sa hauteur. |
+> | ![[piscine_CE_2019.png|500]]<br>**Caractéristiques techniques :**<br>- Hauteur de l'eau : 65 cm<br>- Consommation électrique moyenne de la pompe : 3,42 kWh par jour.<br>- Prix (piscine + pompe) : 80 € | **Document 2**<br>Prix d'un kWh : 0,15 €.<br>Le kWh (kilowatt-heure) est l'unité de mesure de l'énergie électrique.<br><br>**Document 3**<br>Prix d'un m³ d'eau : 2,03 €.<br><br>**Document 4**<br>Le volume d'un cylindre est donné par la formule suivante : $V = \pi \times r^2 \times h$ où $r$ est le rayon du cylindre et $h$ sa hauteur. |
 
 > [!exercice] Exercice 5
 > Paul veut construire un garage dans le fond de son jardin. Sur le schéma ci-contre, la partie hachurée représente le garage positionné en limite de propriété. Les longueurs indiquées (1,6 m et 3 m) sont imposées ; la longueur marquée par un point d'interrogation est variable.
 >
-> ![[jardin2.png]]
+> ![[jardin2.png|400]]
+
 >
 > Toute trace de recherche, même incomplète, pourra être prise en compte dans la notation. Sachant que la surface du garage ne doit pas dépasser 20 $m^2$, quelle valeur maximale peut-il choisir pour cette longueur variable ?
 
@@ -176,7 +177,7 @@ On ne peut transporter que 500 kg à la fois. Or un cylindre pèse 198 kg, on ne
 
 ## Programme de calcul
 
-> [!exercice] Exercice 1 — 20 points
+> [!exercice] Exercice 1 
 > *D'après Brevet Métropole 2021*
 >
 > On considère le programme de calcul suivant :
@@ -203,18 +204,20 @@ On ne peut transporter que 500 kg à la fois. Or un cylindre pèse 198 kg, on ne
 >     2. En déduire que ce programme de calcul donne toujours un résultat multiple de 4.
 > 4. Pour quel nombre de départ obtient-on un résultat égal à 0 ?
 
-> [!exercice] Exercice 2 — 20 points
+> [!exercice] Exercice 2 
 > *D'après Brevet Amérique du Nord 2024*
 >
 > Voici un programme de calcul représenté par un organigramme :
 >
 > ```mermaid
+> %%{init: {'theme': 'base', 'themeVariables': {'fontSize': '12px', 'primaryColor': '#ffffff', 'primaryBorderColor': '#000000', 'primaryTextColor': '#000000', 'lineColor': '#000000'}, 'flowchart': {'useMaxWidth': false, 'padding': 6, 'nodeSpacing': 15, 'rankSpacing': 20}}}%%
 > flowchart TD
 >     A["Nombre choisi"] --> B["Ajouter 2"] --> C["Multiplier par 4"]
 >     A --> D["Multiplier par 5"] --> E["Soustraire 3"]
 >     C --> F["Multiplier les deux nombres"]
 >     E --> F
 >     F --> G["Résultat à l'arrivée"]
+>     classDef default rx:8,ry:8
 > ```
 >
 > 1. Montrer que si on choisit 2 comme nombre de départ, le résultat à l'arrivée est 112.
@@ -226,7 +229,7 @@ On ne peut transporter que 500 kg à la fois. Or un cylindre pèse 198 kg, on ne
 >     - Expression D : $(x + 2) \times 4 \times (5x - 3)$
 > 4. Trouver les deux nombres de départ qui permettent d'obtenir 0 à l'arrivée.
 
-> [!exercice] Exercice 3 — 20 points
+> [!exercice] Exercice 3 
 > *D'après Brevet Amérique du Nord 2025*
 >
 > On considère les deux programmes de calcul suivants :
@@ -241,12 +244,14 @@ On ne peut transporter que 500 kg à la fois. Or un cylindre pèse 198 kg, on ne
 > **Programme B** (organigramme) :
 >
 > ```mermaid
+> %%{init: {'theme': 'base', 'themeVariables': {'fontSize': '12px', 'primaryColor': '#ffffff', 'primaryBorderColor': '#000000', 'primaryTextColor': '#000000', 'lineColor': '#000000'}, 'flowchart': {'useMaxWidth': false, 'padding': 6, 'nodeSpacing': 15, 'rankSpacing': 20}}}%%
 > flowchart TD
 >     A["Choisir un nombre"] --> B["Soustraire 1"]
 >     A --> C["Soustraire 6"]
 >     B --> D["Multiplier les deux résultats"]
 >     C --> D
 >     D --> E["Ajouter 5"]
+>     classDef default rx:8,ry:8
 > ```
 >
 > 1. Montrer que, lorsque le nombre choisi est 4, le résultat obtenu avec le programme A est 5.
@@ -255,7 +260,7 @@ On ne peut transporter que 500 kg à la fois. Or un cylindre pèse 198 kg, on ne
 > 4. Lorsque le nombre choisi est 10, quel résultat obtient-on avec le programme B ?
 > 5. Il existe exactement deux nombres pour lesquels les programmes A et B fournissent des résultats identiques. Quels sont ces deux nombres ?
 
-> [!exercice] Exercice 4 — 20 points
+> [!exercice] Exercice 4 
 > *D'après Brevet Métropole 2025*
 >
 > Au club « Mathsetmagie », on s'amuse à créer des programmes de calcul plus ou moins magiques.
@@ -286,25 +291,25 @@ On ne peut transporter que 500 kg à la fois. Or un cylindre pèse 198 kg, on ne
 
 ## Problèmes ouverts
 
-> [!exercice] Exercice 1 : Téléchargement — 6 points
+> [!exercice] Exercice 1 : Téléchargement 
 > *D'après Amérique du Nord - 5 juin 2018 - Exercice 8*
 >
 > On considère une fenêtre de téléchargement affichant : « Téléchargé : 9,7 sur 115,2 Mo (1,3 Mo/s) ».
 >
 > Si la vitesse de téléchargement reste constante, faudra-t-il plus d'une minute et vingt-cinq secondes pour que le téléchargement se termine ?
 
-> [!exercice] Exercice 2 : Course de roller — 14 points
+> [!exercice] Exercice 2 : Course de roller 
 > *D'après Polynésie - 10 septembre 2018 - Exercice 4*
 >
 > Un garçon et une fille pratiquent le roller. Ils décident de faire une course en empruntant deux parcours différents. La fille, qui part du point F et arrive au point A, met 28,5 secondes. Le garçon, qui part du point G et arrive aussi au point A, met 28 secondes. Le dessin ci-après, qui n'est pas à l'échelle, représente les deux parcours ; celui de la fille comporte deux demi-cercles de 5 m de rayon.
 >
-> ![[parcours.png]]
+> ![[parcours.png|500]]
 >
 > *On rappelle que si $p$ est le périmètre d'un cercle de rayon $r$, alors $p = 2 \times \pi \times r$.*
 >
 > Lequel des deux participants va le plus vite ?
 
-> [!exercice] Exercice 3 : Fuite d'eau dans une vasque — 20 points
+> [!exercice] Exercice 3 : Fuite d'eau dans une vasque
 > *D'après Métropole - 30 juin 2022 - Exercice 5*
 >
 > Dans une habitation, la consommation d'eau peut être anormalement élevée lorsqu'il y a une fuite d'eau. On considère la situation suivante :
@@ -312,7 +317,7 @@ On ne peut transporter que 500 kg à la fois. Or un cylindre pèse 198 kg, on ne
 > - Le robinet fuit à raison d'une goutte par seconde.
 > - En moyenne, 20 gouttes d'eau correspondent à un millilitre (1 ml).
 >
-> ![[vasquebb.png]]
+> ![[vasquebb.png|450]]
 >
 > L'évacuation de la vasque étant fermée, l'eau va-t-elle déborder au bout d'une semaine ? Justifier la réponse.
 
@@ -324,17 +329,17 @@ On ne peut transporter que 500 kg à la fois. Or un cylindre pèse 198 kg, on ne
 > - Respecter les règles de rédaction vues en cours.
 > - Calculatrice autorisée.
 
-> [!exercice] Exercice 1 : Activités numériques — 4 points
+> [!exercice] Exercice 1 : Activités numériques 
 > Effectuer les calculs suivants en respectant les règles de rédaction :
 > 1. $A = -15 + 6 \times (-2)$
 > 2. $B = -5 \times (12 - 7 \times (-3))$
 
-> [!exercice] Exercice 2 : Calcul littéral — 4 points
+> [!exercice] Exercice 2 : Calcul littéral 
 > Développer et réduire les expressions suivantes :
 > 1. $C = 5(x+3)-3x$
 > 2. $D = (x-4)(3x+2)-x^2$
 
-> [!exercice] Exercice 3 : Programme de calcul — 6 points
+> [!exercice] Exercice 3 : Programme de calcul 
 > Voici un programme de calcul :
 >
 > **Programme de calcul**
@@ -348,7 +353,7 @@ On ne peut transporter que 500 kg à la fois. Or un cylindre pèse 198 kg, on ne
 > 3. Dans la suite de l'exercice, on nomme $x$ le nombre choisi au départ. Prouver que ce programme donne toujours un résultat multiple de 6 si $x$ est un entier.
 > 4. Un autre programme renvoie l'expression $(x+3)^2-(x^2-3)$. Prouver que les deux programmes renvoient les mêmes valeurs quelle que soit la valeur de $x$ choisie.
 
-> [!exercice] Exercice 4 : Problème ouvert — 6 points
+> [!exercice] Exercice 4 : Problème ouvert 
 > *D'après Brevet Asie - 18 juin 2024*
 >
 > Des amis habitent Strasbourg et préparent leurs vacances. Ils veulent se rendre à Marseille. Ils ont un budget de 1000 € pour le voyage.

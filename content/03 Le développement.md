@@ -118,7 +118,7 @@ tags:
 > [!methode] Méthode — Utiliser les identités remarquables pour factoriser
 > Pour le moment, on a utilisé les identités remarquables pour développer des expressions mais on peut les utiliser aussi dans l'autre sens pour factoriser.
 >
-> ![[iddevfac.png|400]]
+> ![[iddevfac.png|300]]
 
 > [!exemple] Exemple
 > À l'aide des identités remarquables, factoriser les expressions suivantes :
