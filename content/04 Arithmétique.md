@@ -117,6 +117,8 @@ tags:
 
 > [!exemple] Exemple
 > $$\frac{1014}{84} = \frac{2 \times 3 \times 13^2}{2^2 \times 3 \times 7} = \frac{13^2}{2 \times 7} = \frac{169}{14}$$
+>
+> ![[simplification_fraction.mp4]]
 
 > [!exercice] Exercice 9
 > Rendre irréductibles les fractions suivantes en utilisant la décomposition en facteurs premiers :
@@ -178,6 +180,8 @@ tags:
 > - $48 = 2^4 \times 3$
 > - Facteurs premiers communs : $2$ et $3$
 > - PGCD(72, 48) = $2^3 \times 3^1 = 8 \times 3 = 24$
+>
+> ![[pgcd_decomposition.mp4]]
 
 > [!exercice] Exercice 12
 > Calculer les PGCD suivants en utilisant la décomposition en facteurs premiers :

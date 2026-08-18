@@ -67,9 +67,11 @@ La rédaction suit des étapes bien déterminées :
 > [!exercice] Exercice 3
 > On considère $\mathcal{C}$ le cercle de centre $O$ et de diamètre $[AB]$. Soit $C$ un point du cercle $\mathcal{C}$ distinct de $A$ et $B$ et la droite $\mathcal{D}$ telle que $\mathcal{D} \perp (BC)$.
 >
-> ![[chap2-ex3.png|400]]
+> <iframe src="https://www.geogebra.org/classic/fsduxsur?embed" width="800" height="600" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
 >
 > Démontrer que $\mathcal{D} \sslash (AC)$.
+
+![[triangle_demi_cercle.mp4]]
 
 Les théorèmes sont des propriétés plus complexes. Les théorèmes peuvent porter le nom de la personne qui a trouvé cette propriété ou simplement un nom en lien avec leur utilité :
 - Théorème de Thalès
@@ -85,8 +87,7 @@ Pour le moment, vous connaissez tous le théorème de Pythagore ainsi que sa ré
 > [!remarque] Remarque
 > Veillez bien à vérifier les conditions d'application d'un théorème avant de l'appliquer. Dans les exercices simples, ces conditions sont données mais dans les exercices évolués ce sera à vous de les vérifier. La plupart des erreurs viennent de là.
 
-> [!demonstration] Démonstration animée — Triangle inscrit dans un demi-cercle
-> ![[triangle_demi_cercle.mp4]]
+
 
 > [!exercice] Exercice 4
 > On considère le cercle $\mathcal{C}$ de diamètre $[AB]$ et $C \in \mathcal{C}$.
@@ -103,7 +104,7 @@ Pour le moment, vous connaissez tous le théorème de Pythagore ainsi que sa ré
 > [!exercice] Exercice 6
 > On considère un quadrilatère $ABCD$ tel que $(AB) \parallel (DC)$ et $AB = DC$. On note $I$ le point d'intersection des diagonales $[AC]$ et $[BD]$.
 >
-> ![[chap2-ex6.png|300]]
+> <iframe src="https://www.geogebra.org/classic/fpyd3b4v?embed" width="800" height="600" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
 >
 > 1. Démontrer que $ABCD$ est un parallélogramme.
 > 2. En déduire que $I$ est le milieu de $[AC]$ et de $[BD]$.

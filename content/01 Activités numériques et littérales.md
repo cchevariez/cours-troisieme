@@ -51,8 +51,11 @@ Voici un exemple sur un programme de calcul.
 > - Calculer le carré du résultat obtenu
 > - Retirer 1 au résultat obtenu.
 >
+>
 > 1. Vérifier que si l'on choisit 4 comme nombre de départ, les deux programmes renvoient le même résultat.
 > 2. Vérifier que les deux programmes renvoient la même valeur quel que soit le nombre de départ.
+
+![[programmes_calcul.mp4]]
 
 La première question est de type « Vérifier que deux expressions sont égales pour **une valeur donnée.** ». On va donc calculer dans une première colonne, la valeur retournée par le programme A en choisissant 4 comme nombre de départ. Dans la deuxième colonne, on fera pareil pour le programme B puis on comparera les résultats obtenus.
 
@@ -72,7 +75,7 @@ Voici un exemple de ce type d'exercice (extrait du DNB 2019) :
 
 Au brouillon, faire son schéma de résolution. Ce schéma indiquera les grandes étapes de notre raisonnement.
 
-![[schemacy.png|340]]
+![[schemacy.png|227]]
 
 Il suffit maintenant de rédiger en suivant ces étapes.
 
@@ -101,6 +104,8 @@ Le volume de béton contenu dans un cylindre est de 82464 $cm^3$.
 **Étape 2 : Calcul de la masse d'un cylindre de béton**
 
 Conversion du volume de béton en $m^3$
+
+![[tableau_conversion_volume.mp4]]
 
 $$82464 \ cm^3 = 0{,}082464 \ m^3$$
 
@@ -153,7 +158,7 @@ On ne peut transporter que 500 kg à la fois. Or un cylindre pèse 198 kg, on ne
 >
 > | Document 1 | Documents 2 à 4 |
 > |---|---|
-> | ![[piscine_CE_2019.png|500]]<br>**Caractéristiques techniques :**<br>- Hauteur de l'eau : 65 cm<br>- Consommation électrique moyenne de la pompe : 3,42 kWh par jour.<br>- Prix (piscine + pompe) : 80 € | **Document 2**<br>Prix d'un kWh : 0,15 €.<br>Le kWh (kilowatt-heure) est l'unité de mesure de l'énergie électrique.<br><br>**Document 3**<br>Prix d'un m³ d'eau : 2,03 €.<br><br>**Document 4**<br>Le volume d'un cylindre est donné par la formule suivante : $V = \pi \times r^2 \times h$ où $r$ est le rayon du cylindre et $h$ sa hauteur. |
+> | ![[piscine_CE_2019.png\|500]]<br>**Caractéristiques techniques :**<br>- Hauteur de l'eau : 65 cm<br>- Consommation électrique moyenne de la pompe : 3,42 kWh par jour.<br>- Prix (piscine + pompe) : 80 € | **Document 2**<br>Prix d'un kWh : 0,15 €.<br>Le kWh (kilowatt-heure) est l'unité de mesure de l'énergie électrique.<br><br>**Document 3**<br>Prix d'un m³ d'eau : 2,03 €.<br><br>**Document 4**<br>Le volume d'un cylindre est donné par la formule suivante : $V = \pi \times r^2 \times h$ où $r$ est le rayon du cylindre et $h$ sa hauteur. |
 
 > [!exercice] Exercice 5
 > Paul veut construire un garage dans le fond de son jardin. Sur le schéma ci-contre, la partie hachurée représente le garage positionné en limite de propriété. Les longueurs indiquées (1,6 m et 3 m) sont imposées ; la longueur marquée par un point d'interrogation est variable.

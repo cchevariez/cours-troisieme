@@ -14,6 +14,8 @@ tags:
 > Pour tous nombres $k,a$ et $b$ :
 > $$k \times (a+b) = k \times a + k \times b$$
 > $$k \times (a-b) = k \times a - k \times b$$
+>
+> ![[distributivite_simple.mp4]]
 
 > [!exercice] Exercice 1
 > Développer les expressions suivantes :
@@ -49,6 +51,8 @@ tags:
 > [!propriete] Propriété
 > Pour tous nombres $a,b,c$ et $d$ :
 > $$(a+b)\times(c+d) = ac + ad + bc + bd$$
+>
+> ![[distributivite_double.mp4]]
 >
 > ![[devdouble.png|400]]
 >
@@ -100,19 +104,19 @@ tags:
 > [!methode] Méthode — Tester une égalité pour des valeurs données
 > On peut tester l'égalité entre deux expressions littérales pour certaines valeurs de $x$. Pour ce faire il suffit de remplacer $x$ par la valeur souhaitée et calculer la valeur numérique de chacune des expressions puis de les comparer.
 
-> [!exemple] Exemple
-> Soit deux expressions $A = 2x^2 + 2x +4$ et $B = 4x$. Vérifier si $A$ et $B$ sont égales pour $x = 1$ et $x = 2$.
+> [!Exercice] Exercice 1
+> Soit deux expressions $A = 2x^2 - 2x +4$ et $B = 4x$. Vérifier si $A$ et $B$ sont égales pour $x = 1$ et $x = 2$.
 
 > [!methode] Méthode — Prouver que deux expressions littérales ne sont pas égales pour toutes les valeurs de $x$
 > Pour ce faire, il suffit de trouver une valeur de $x$ pour laquelle les deux expressions ne sont pas égales.
 
-> [!exemple] Exemple
-> Prouver que $A = 2x^2 +2x + 4$ et $B = 4x$ ne sont pas égales.
+> [!Exercice] Exercice 2
+> Prouver que $A = 2x^2 -2x + 4$ et $B = 4x$ ne sont pas égales.
 
 > [!methode] Méthode — Prouver que deux expressions littérales sont égales
 > Pour prouver que deux expressions sont égales, il suffit de prouver qu'elles ont la même écriture développée réduite.
 
-> [!exemple] Exemple
+> [!exercice] Exercice 3
 > Prouver que les expressions $A = (2x+3)^2 - 4x^2$ et $B = 3(4x+3)$ sont égales.
 
 > [!methode] Méthode — Utiliser les identités remarquables pour factoriser
@@ -120,7 +124,7 @@ tags:
 >
 > ![[iddevfac.png|300]]
 
-> [!exemple] Exemple
+> [!Exercice] Exercice 4
 > À l'aide des identités remarquables, factoriser les expressions suivantes :
 > 1. $A = 9x^2 + 12x + 4$
 > 2. $B = 4x^2 - 36$

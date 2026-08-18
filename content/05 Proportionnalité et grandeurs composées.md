@@ -18,6 +18,9 @@ Un tableau représente une situation de proportionnalité quand on peut passer d
 > 1. Déterminer les valeurs de $x$ et $y$ avec la méthode du coefficient.
 > 2. Déterminer les valeurs de $z$ et $t$ avec la méthode du produit en croix.
 
+> [!demonstration] Correction animée
+> ![[proportionnalite_ex1.mp4]]
+
 ## Manipulation de pourcentage
 
 Dans cette partie, on notera $PI$ le prix initial et $PF$ le prix final.
