@@ -1,0 +1,83 @@
+<!doctype html><html><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="google" value="notranslate"><link rel="shortcut icon" href="static/favicon.ico"><title>Scratch 3.0 GUI</title><script defer="defer" src="gui.js"></script></head><body>
+<script>
+(function () {
+  // Charge automatiquement un projet .sb3 au demarrage : ouvre le menu
+  // Fichier > Importer depuis votre ordinateur (comme un vrai clic),
+  // puis simule la selection du fichier sur l'input qui apparait alors.
+  // Evite de dependre de l'API scratch.mit.edu (bloquee en 403 sur ce miroir).
+  // Nom du fichier via ?project=xxx.sb3, sinon defaut.
+  var params = new URLSearchParams(window.location.search);
+  var projectFile = params.get('project') || 'equation_1.sb3';
+
+  function findByText(selector, text) {
+    return [...document.querySelectorAll(selector)]
+      .find(function (el) { return el.textContent.trim() === text && el.children.length === 0; });
+  }
+
+  function fullClick(el) {
+    el.dispatchEvent(new MouseEvent('mousedown', {bubbles: true}));
+    el.dispatchEvent(new MouseEvent('mouseup', {bubbles: true}));
+    el.click();
+  }
+
+  function findImportItem(attemptsLeft) {
+    var importItem = findByText('li', 'Importer depuis votre ordinateur');
+    if (importItem) {
+      fullClick(importItem);
+      return setTimeout(function () { attachFile(30); }, 300);
+    }
+    if (attemptsLeft <= 0) {
+      console.error('[auto-load] item "Importer" introuvable, abandon.');
+      return;
+    }
+    setTimeout(function () { findImportItem(attemptsLeft - 1); }, 200);
+  }
+
+  function openImportMenu(attemptsLeft) {
+    var fileLabel = findByText('span', 'Fichier');
+    if (!fileLabel) {
+      if (attemptsLeft <= 0) {
+        console.error('[auto-load] menu Fichier introuvable, abandon.');
+        return;
+      }
+      return setTimeout(function () { openImportMenu(attemptsLeft - 1); }, 300);
+    }
+    // menu-bar-item est le grand-parent du span de label.
+    fullClick(fileLabel.parentElement.parentElement);
+    setTimeout(function () { findImportItem(20); }, 250);
+  }
+
+  function attachFile(attemptsLeft) {
+    var input = document.querySelector('input[type=file][accept*="sb3"]');
+    if (!input) {
+      if (attemptsLeft <= 0) {
+        console.error('[auto-load] input de projet introuvable apres ouverture du menu, abandon.');
+        return;
+      }
+      return setTimeout(function () { attachFile(attemptsLeft - 1); }, 200);
+    }
+    fetch(projectFile)
+      .then(function (r) {
+        if (!r.ok) throw new Error('fetch ' + projectFile + ' -> ' + r.status);
+        return r.blob();
+      })
+      .then(function (blob) {
+        var file = new File([blob], projectFile, {type: 'application/x.scratch.sb3'});
+        var dt = new DataTransfer();
+        dt.items.add(file);
+        input.files = dt.files;
+        input.dispatchEvent(new Event('change', {bubbles: true}));
+        console.log('[auto-load] projet charge : ' + projectFile);
+      })
+      .catch(function (err) {
+        console.error('[auto-load] echec du chargement automatique :', err);
+      });
+  }
+
+  window.addEventListener('load', function () {
+    // Laisse l'appli finir son montage avant d'ouvrir le menu.
+    setTimeout(function () { openImportMenu(30); }, 800);
+  });
+})();
+</script>
+</body></html>
