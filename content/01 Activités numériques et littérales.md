@@ -246,18 +246,11 @@ On ne peut transporter que 500 kg à la fois. Or un cylindre pèse 198 kg, on ne
 > - Diviser par 3
 > - Soustraire le nombre de départ
 >
-> **Programme B** (organigramme) :
+> **Programme B** — programme Scratch (se charge automatiquement ci-dessous) :
 >
-> ```mermaid
-> %%{init: {'theme': 'base', 'themeVariables': {'fontSize': '12px', 'primaryColor': '#ffffff', 'primaryBorderColor': '#000000', 'primaryTextColor': '#000000', 'lineColor': '#000000'}, 'flowchart': {'useMaxWidth': false, 'padding': 6, 'nodeSpacing': 15, 'rankSpacing': 20}}}%%
-> flowchart TD
->     A["Choisir un nombre"] --> B["Soustraire 1"]
->     A --> C["Soustraire 6"]
->     B --> D["Multiplier les deux résultats"]
->     C --> D
->     D --> E["Ajouter 5"]
->     classDef default rx:8,ry:8
-> ```
+> <iframe src="https://cchevariez.github.io/cours-troisieme/static/scratch-player/index.html?project=programme_b.sb3" width="1000" height="650" style="border:1px solid #e4e4e4;border-radius:4px;" frameborder="0"></iframe>
+>
+> ![[programme_b_code.png]]
 >
 > 1. Montrer que, lorsque le nombre choisi est 4, le résultat obtenu avec le programme A est 5.
 > 2. Montrer que, lorsque le nombre choisi est $-2$, le résultat obtenu avec le programme A est 5.
