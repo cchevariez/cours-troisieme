@@ -6,6 +6,11 @@ tags:
 
 # Équations et inéquations
 
+> [!activite] Programme Scratch
+> Le programme se charge automatiquement ci-dessous.
+>
+> <iframe src="https://cchevariez.github.io/cours-troisieme/static/scratch-player/index.html?project=equation_1.sb3" width="1000" height="650" style="border:1px solid #e4e4e4;border-radius:4px;" frameborder="0"></iframe>
+
 ## Équations du second degré
 
 ### Équation produit nul
