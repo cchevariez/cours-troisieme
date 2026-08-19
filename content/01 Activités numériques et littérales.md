@@ -250,7 +250,7 @@ On ne peut transporter que 500 kg à la fois. Or un cylindre pèse 198 kg, on ne
 >
 > <iframe src="https://cchevariez.github.io/cours-troisieme/static/scratch-player/index.html?project=programme_b.sb3" width="1000" height="650" style="border:1px solid #e4e4e4;border-radius:4px;" frameborder="0"></iframe>
 >
-> ![[programme_b_code.png]]
+> ![[programme_b_code.png|300]]
 >
 > 1. Montrer que, lorsque le nombre choisi est 4, le résultat obtenu avec le programme A est 5.
 > 2. Montrer que, lorsque le nombre choisi est $-2$, le résultat obtenu avec le programme A est 5.

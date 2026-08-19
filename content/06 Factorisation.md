@@ -23,46 +23,58 @@ Il est généralement simple de repérer un facteur commun. C'est pourquoi je re
 Quelques exemples valent mieux qu'un long discours...
 
 > [!exemple] Exemple
-> $$\begin{align*}
+> $$
+> \begin{align*}
 > A(x) &=15x-12\\
 > A(x) &=\colorbox{fond3}{3} \times 5x- \colorbox{fond3}{3}\times 4  \hspace{5mm} \textit{$\rightsquigarrow$ Le nombre 3 est le facteur commun.}\\
 > A(x) &=\colorbox{fond3}{3}(5x-4)
-> \end{align*}$$
+> \end{align*}
+> $$
 >
-> $$\begin{align*}
+> $$
+> \begin{align*}
 > B(x)&=5x-5\\
 > B(x)&=\colorbox{fond3}{5}\times x-\colorbox{fond3}{5}\times1 \hspace{5mm} \textit{$\rightsquigarrow$ Le nombre 5 est le facteur commun : ne pas oublier le "$\times 1$" !}\\
 > B(x)&=\colorbox{fond3}{5}(x-1)
-> \end{align*}$$
+> \end{align*}
+> $$
 >
-> $$\begin{align*}
+> $$
+> \begin{align*}
 > C(x)&=6x^2+10x\\
 > C(x)&=\colorbox{fond3}{$2x$} \times 3x+ \colorbox{fond3}{$2x$} \times 5 \hspace{5mm} \textit{$\rightsquigarrow$ $2x$ est ici le facteur commun.}\\
 > C(x)&=\colorbox{fond3}{$2x$}(3x+5)
-> \end{align*}$$
+> \end{align*}
+> $$
 >
-> $$\begin{align*}
+> $$
+> \begin{align*}
 > D(x)&=(3x+2)(4x-1)+(3x+2)(-6x+8)\\
 > D(x)&=\colorbox{fond3}{$(3x+2)$} \times (4x-1)+\colorbox{fond3}{$(3x+2)$} \times (-6x+8) \hspace{3mm} \textit{$\rightsquigarrow$ c'est ici $(3x+2)$.}\\
 > D(x)&=\colorbox{fond3}{$(3x+2)$} \left[ (4x-1)+(-6x+8) \right]\\
 > D(x)&=\colorbox{fond3}{$(3x+2)$} \left[ 4x-1-6x+8 \right]\\
 > D(x)&=\colorbox{fond3}{$(3x+2)$}(-2x+7)
-> \end{align*}$$
+> \end{align*}
+> $$
 >
-> $$\begin{align*}
+> $$
+> \begin{align*}
 > E(x)&=(3x-4)^2-(2x-5)(3x-4)\\
 > E(x)&=\colorbox{fond3}{$(3x-4)$} \times (3x-4)+(2x-5) \times \colorbox{fond3}{$(3x-4)$} \hspace{5mm}  \textit{$\rightsquigarrow$ $(3x-4)$ est le facteur commun.}\\
 > E(x)&=\colorbox{fond3}{$(3x-4)$} \left[ (3x-4)\colorbox{fond5}{-}(2x-5) \right] \hspace{5mm} \textit{$\rightsquigarrow$ Attention aux changements de signes.}\\
 > E(x)&=\colorbox{fond3}{$(3x-4)$} \left[ 3x-4\colorbox{fond5}{-}2x\colorbox{fond5}{+}5 \right]\\
 > E(x)&=\colorbox{fond3}{$(3x-4)$}(x+1)
-> \end{align*}$$
+> \end{align*}
+> $$
 >
-> $$\begin{align*}
+> $$
+> \begin{align*}
 > F(x)&=(2x-3)^2-(2x-3)\\
 > F(x)&=\colorbox{fond3}{$(2x-3)$}(2x-3)-\colorbox{fond3}{$(2x-3)$}\times1 \hspace{5mm} \textit{$\rightsquigarrow$ Mettre en évidence le "$\times 1$".}\\
 > F(x)&=\colorbox{fond3}{$(2x-3)$}\left[(2x-3)-1\right]\\
 > F(x)&=\colorbox{fond3}{$(2x-3)$}(2x-4)
-> \end{align*}$$
+> \end{align*}
+> $$
 
 > [!exercice] Exercice 1
 > Factoriser les expressions suivantes en mettant en évidence le facteur commun numérique ou monôme :

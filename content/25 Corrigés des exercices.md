@@ -427,121 +427,191 @@ Vérification : $324 \div 6 = 54$ (divisible par 6), $324 \div 8 = 40,5$ (non di
 ## Corrigé chapitre 6 — Factorisation
 
 **Exercice 1** *(rédigé pour cette édition)*
-$$\begin{align*}
+$$
+\begin{align*}
 21x+14 &= 7\times3x+7\times2 = 7(3x+2)
-\end{align*}$$
-$$\begin{align*}
+\end{align*}
+$$
+$$
+\begin{align*}
 9x-9 &= 9\times x-9\times1 = 9(x-1)
-\end{align*}$$
-$$\begin{align*}
+\end{align*}
+$$
+$$
+\begin{align*}
 8x^2+12x &= 4x\times2x+4x\times3 = 4x(2x+3)
-\end{align*}$$
-$$\begin{align*}
+\end{align*}
+$$
+$$
+\begin{align*}
 10x^2-6x &= 2x\times5x-2x\times3 = 2x(5x-3)
-\end{align*}$$
-$$\begin{align*}
+\end{align*}
+$$
+$$
+\begin{align*}
 6x-4 &= 2\times3x-2\times2 = 2(3x-2)
-\end{align*}$$
-$$\begin{align*}
+\end{align*}
+$$
+$$
+\begin{align*}
 x^2-x &= x\times x-x\times1 = x(x-1)
-\end{align*}$$
+\end{align*}
+$$
 
 **Exercice 2**
-$$\begin{align*}
+$$
+\begin{align*}
 (3x+7)(2x-4)+(3x+7)(4x+2) &= (3x+7)[(2x-4)+(4x+2)] = (3x+7)(6x-2)
-\end{align*}$$
-$$\begin{align*}
+\end{align*}
+$$
+$$
+\begin{align*}
 (2x-5)^2-(2x-5)(6x-1) &= (2x-5)[(2x-5)-(6x-1)] = (2x-5)(-4x-4)
-\end{align*}$$
-$$\begin{align*}
+\end{align*}
+$$
+$$
+\begin{align*}
 6x(x-2)-(x-2)(x-3) &= (x-2)[6x-(x-3)] = (x-2)(5x+3)
-\end{align*}$$
-$$\begin{align*}
+\end{align*}
+$$
+$$
+\begin{align*}
 (3x-1)(2x+9)-(3x-1)(4x-1) &= (3x-1)[(2x+9)-(4x-1)] = (3x-1)(-2x+10)
-\end{align*}$$
-$$\begin{align*}
+\end{align*}
+$$
+$$
+\begin{align*}
 (3x-7)(3x+7)-(3x-7)(2x+11) &= (3x-7)[(3x+7)-(2x+11)] = (3x-7)(x-4)
-\end{align*}$$
-$$\begin{align*}
+\end{align*}
+$$
+$$
+\begin{align*}
 (x-2)^2-(x-2)(3x+4) &= (x-2)[(x-2)-(3x+4)] = (x-2)(-2x-6)
-\end{align*}$$
+\end{align*}
+$$
 
 **Exercice 3**
-$$\begin{align*}
+$$
+\begin{align*}
 A(x) &= 9x^2+42x+49 = (3x)^2+2 \times (3x) \times (7)+(7)^2 = (3x+7)^2
-\end{align*}$$
-$$\begin{align*}
+\end{align*}
+$$
+$$
+\begin{align*}
 B(x) &= 25x^2-60x+36 = (5x)^2-2 \times (5x) \times (6)+(6)^2 = (5x-6)^2
-\end{align*}$$
-$$\begin{align*}
+\end{align*}
+$$
+$$
+\begin{align*}
 C(x) &= 9x^2-64 = (3x)^2-(8)^2 = (3x-8)(3x+8)
-\end{align*}$$
+\end{align*}
+$$
 
 **Exercice 4** *(rédigé pour cette édition)*
-$$\begin{align*}
+$$
+\begin{align*}
 x^2+14x+49 &= x^2+2\times x \times 7+7^2 = (x+7)^2
-\end{align*}$$
-$$\begin{align*}
+\end{align*}
+$$
+$$
+\begin{align*}
 x^2+20x+100 &= x^2+2\times x \times 10+10^2 = (x+10)^2
-\end{align*}$$
-$$\begin{align*}
+\end{align*}
+$$
+$$
+\begin{align*}
 x^2-18x+81 &= x^2-2\times x \times 9+9^2 = (x-9)^2
-\end{align*}$$
-$$\begin{align*}
+\end{align*}
+$$
+$$
+\begin{align*}
 x^2-10x+25 &= x^2-2\times x \times 5+5^2 = (x-5)^2
-\end{align*}$$
-$$\begin{align*}
+\end{align*}
+$$
+$$
+\begin{align*}
 x^2-16 &= x^2-4^2 = (x-4)(x+4)
-\end{align*}$$
-$$\begin{align*}
+\end{align*}
+$$
+$$
+\begin{align*}
 4x^2-25 &= (2x)^2-5^2 = (2x-5)(2x+5)
-\end{align*}$$
+\end{align*}
+$$
 
 **Exercice 5**
-$$\begin{align*}
+$$
+\begin{align*}
 (3x-5)(4x+5)-(4x+5)(2x+7) &= (4x+5)[(3x-5)-(2x+7)] = (4x+5)(x-12)
-\end{align*}$$
-$$\begin{align*}
+\end{align*}
+$$
+$$
+\begin{align*}
 (6x-11)^2+(6x-11)(2x-5) &= (6x-11)[(6x-11)+(2x-5)] = (6x-11)(8x-16)
-\end{align*}$$
-$$\begin{align*}
+\end{align*}
+$$
+$$
+\begin{align*}
 25x^2-144 &= (5x)^2-12^2 = (5x-12)(5x+12)
-\end{align*}$$
-$$\begin{align*}
+\end{align*}
+$$
+$$
+\begin{align*}
 49x^2+70x+25 &= (7x)^2+2 \times 7x \times 5+5^2 = (7x+5)^2
-\end{align*}$$
-$$\begin{align*}
+\end{align*}
+$$
+$$
+\begin{align*}
 (4x+3)(2x-7)-(2x-7)(3x+2) &= (2x-7)[(4x+3)-(3x+2)] = (2x-7)(x+1)
-\end{align*}$$
-$$\begin{align*}
+\end{align*}
+$$
+$$
+\begin{align*}
 9x^2-6x+1 &= (3x)^2-2 \times 3x \times 1+1^2 = (3x-1)^2
-\end{align*}$$
-$$\begin{align*}
+\end{align*}
+$$
+$$
+\begin{align*}
 (4x-20)(x+2)-(x-5)(12x-6) &= (x-5)[4(x+2)-6(2x-1)] = (x-5)(-8x+14)
-\end{align*}$$
-$$\begin{align*}
+\end{align*}
+$$
+$$
+\begin{align*}
 64x^2-32xy+4y^2 &= (8x)^2-2 \times 8x \times 2y+(2y)^2 = (8x-2y)^2
-\end{align*}$$
-$$\begin{align*}
+\end{align*}
+$$
+$$
+\begin{align*}
 \dfrac{x^2}{4}-5x+25 &= \left(\dfrac{x}{2}\right)^2-2 \times \dfrac{x}{2} \times 5+5^2 = \left(\dfrac{x}{2}-5\right)^2
-\end{align*}$$
-$$\begin{align*}
+\end{align*}
+$$
+$$
+\begin{align*}
 15x^2-30x+15 &= 15(x^2-2x+1) = 15(x-1)^2
-\end{align*}$$
+\end{align*}
+$$
 
 **Exercice 6**
-$$\begin{align*}
+$$
+\begin{align*}
 A(x) &= (2x-5)(7+3x)-(2x-5)^2 = (2x-5)[(7+3x)-(2x-5)] = (2x-5)(x+12)
-\end{align*}$$
-$$\begin{align*}
+\end{align*}
+$$
+$$
+\begin{align*}
 B(x) &= (x-3)(3x+5)+(3x+5)^2 = (3x+5)[(x-3)+(3x+5)] = (3x+5)(4x+2)
-\end{align*}$$
-$$\begin{align*}
+\end{align*}
+$$
+$$
+\begin{align*}
 C(x) &= 3(x+3)(2x+3)-(2x-3)(2x+3) = (2x+3)[3(x+3)-(2x-3)] = (2x+3)(x+12)
-\end{align*}$$
-$$\begin{align*}
+\end{align*}
+$$
+$$
+\begin{align*}
 D(x) &= (2x-1)^2-(3-5x)^2 = [(2x-1)+(3-5x)][(2x-1)-(3-5x)] = (-3x+2)(7x-4)
-\end{align*}$$
+\end{align*}
+$$
 
 ## Corrigé chapitre 7 — Triangles semblables et théorème de Thalès
 
