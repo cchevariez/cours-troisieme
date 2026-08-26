@@ -28,7 +28,7 @@ En quatrième, la règle des signes pour la multiplication a souvent été appri
 ### Point de départ : le carré de $-1$
 
 > [!propriete] Propriété — Le carré de $-1$
-> $$(-1) \times (-1) = 1 \qquad \text{c'est-à-dire} \qquad (-1)^2 = 1$$
+> $$(-1) \times (-1) = 1 \qquad \text{soit} \qquad (-1)^2 = 1$$
 >
 > **Démonstration.** On part de $1 + (-1) = 0$ (somme de deux nombres opposés) et on multiplie les deux membres par $-1$ :
 > $$
