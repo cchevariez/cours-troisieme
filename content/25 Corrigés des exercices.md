@@ -202,62 +202,89 @@ $$\mathcal{A} = \frac{MN \times NP}{2} = \frac{5 \times 12}{2} = 30 \text{ cm}^2
 
 ## Corrigé chapitre 3 — Le développement
 
+### Temps 1 — avec les formes
+
 **Exercice 1**
-- $9(2x+3) = 18x+27$
-- $-2(-2x+4) = 4x-8$
-- $-3(5x-4)+3x-2-2(3x-4) = -15x+12+3x-2-6x+8 = -18x+18$
-- $2x(x+4) = 2x^2+8x$
-- $-3x(2x+4)-3x(x+4) = -6x^2-12x-3x^2-12x = -9x^2-24x$
-- $3x^2+6x-2x(x^2-5x) = 3x^2+6x-2x^3+10x^2 = -2x^3+13x^2+6x$
+- $\lozenge \times (\bigcirc + \triangle) = \lozenge\times\bigcirc + \lozenge\times\triangle$
+- $\triangle \times (\square + \bigcirc) = \triangle\times\square + \triangle\times\bigcirc$
+- $(\square + \lozenge) \times (\bigcirc + \triangle) = \square\times\bigcirc + \square\times\triangle + \lozenge\times\bigcirc + \lozenge\times\triangle$
+- $(\bigcirc + \triangle) \times (\lozenge + \square) = \bigcirc\times\lozenge + \bigcirc\times\square + \triangle\times\lozenge + \triangle\times\square$
 
 **Exercice 2**
-- $5(3x+2) = 15x+10$
-- $-4(2x-5) = -8x+20$
-- $6(-x+7) = -6x+42$
-- $-(4x-9) = -4x+9$
-- $3x(2x-5) = 6x^2-15x$
-- $-5x(-3x+4) = 15x^2-20x$
-- $4(2x+3)-5(x-1) = 8x+12-5x+5 = 3x+17$
-- $-2(3x-4)+3(2x+1) = -6x+8+6x+3 = 11$
+- $\bigcirc \times (\square + \triangle) = \bigcirc\times\square + \bigcirc\times\triangle$
+- $\square \times (\square + \bigcirc) = \square\times\square + \square\times\bigcirc$
+- $(\lozenge + \triangle) \times (\square + \bigcirc) = \lozenge\times\square + \lozenge\times\bigcirc + \triangle\times\square + \triangle\times\bigcirc$
+
+### Temps 2 — avec des nombres et des lettres
 
 **Exercice 3**
-- $7x-3(2x+4)+5 = 7x-6x-12+5 = x-7$
-- $-2x+4(3x-2)-3x+7 = -2x+12x-8-3x+7 = 7x-1$
-- $5x(x-3)+2x(4-x) = 5x^2-15x+8x-2x^2 = 3x^2-7x$
-- $-3x^2+2x(5x-3) = -3x^2+10x^2-6x = 7x^2-6x$
-- $4x(x+2)-3x(x-5) = 4x^2+8x-3x^2+15x = x^2+23x$
-- $-2(4x-3)-(5x+1)-3(2x-4) = -8x+6-5x-1-6x+12 = -19x+17$
+- $3(x+4) = 3x + 12$
+- $2x(x+5) = 2x^2 + 10x$
+- $(x+2)(x+3) = x^2 + 3x + 2x + 6 = x^2 + 5x + 6$
+- $(2x+1)(x+4) = 2x^2 + 8x + x + 4 = 2x^2 + 9x + 4$
 
 **Exercice 4**
-- $A = -3(x+4) + (2x-6)(-8x + 4) = -3x-12+(-16x^2+56x-24) = -16x^2+53x-36$
-- $B = 7(4x-4) - 8(-4x-2) = 28x-28+32x+16 = 60x-12$
-- $C = (6x-6)(-2x+3) + (6x+2)(-2x-1) = (-12x^2+30x-18)+(-12x^2-10x-2) = -24x^2+20x-20$
-- $D = -2(6x-1)(2x+3) = -2(12x^2+16x-3) = -24x^2-32x+6$
-- $E = 6x^2 +4x -(4x^2+2x-6) = 2x^2+2x+6$
+- $5(2x+3) = 10x + 15$
+- $x(3x+7) = 3x^2 + 7x$
+- $(x+4)(2x+1) = 2x^2 + x + 8x + 4 = 2x^2 + 9x + 4$
+- $(3x+2)(x+5) = 3x^2 + 15x + 2x + 10 = 3x^2 + 17x + 10$
 
-**Exercice 5**
-- $A = (x+3)(x+5) = x^2+5x+3x+15 = x^2+8x+15$
-- $B = (2x-1)(x+4) = 2x^2+8x-x-4 = 2x^2+7x-4$
-- $C = (3x+2)(2x-5) = 6x^2-15x+4x-10 = 6x^2-11x-10$
-- $D = (-x+4)(3x-2) = -3x^2+2x+12x-8 = -3x^2+14x-8$
-- $E = (5x-3)(-2x+1) = -10x^2+5x+6x-3 = -10x^2+11x-3$
-- $F = -2(x+3)(x-4) = -2(x^2-x-12) = -2x^2+2x+24$
+**Exercice 5** *(réécrire, sans développer)*
+- $2x(4x-3) = 2x\big(4x + (-3)\big)$
+- $-3(5x-4) = -3\big(5x + (-4)\big)$
+- $(2x-3)(x-5) = \big(2x + (-3)\big)\big(x + (-5)\big)$
+- $(-x+4)(3x-2) = (-x + 4)\big(3x + (-2)\big)$
 
-**Exercice 6**
-- $G = (x+2)(x-3) + (2x-1)(x+4) = (x^2-x-6)+(2x^2+7x-4) = 3x^2+6x-10$
-- $H = (3x-2)(x+5) - (x-1)(2x+3) = (3x^2+13x-10)-(2x^2+x-3) = x^2+12x-7$
-- $I = 5(2x-3) - (x+4)(3x-2) = (10x-15)-(3x^2+10x-8) = -3x^2-7$
-- $J = -3(x-2)(2x+5) = -3(2x^2+x-10) = -6x^2-3x+30$
+**Exercice 6** *(réécrire, sans développer)*
+- $-5(2x-7) = -5\big(2x + (-7)\big)$
+- $-x(3x-4) = -x\big(3x + (-4)\big)$
+- $(3x-1)(2x-4) = \big(3x + (-1)\big)\big(2x + (-4)\big)$
+- $-2x(-x+5)$ : aucune soustraction, l'expression est déjà écrite avec des additions.
 
 **Exercice 7**
+- $2x(4x-3) = 2x\big(4x+(-3)\big) = 2x\times 4x + 2x\times(-3) = 8x^2 - 6x$
+- $-3(5x-4) = (-3)\times 5x + (-3)\times(-4) = -15x + 12$
+- $(2x-3)(x-5) = 2x^2 - 10x - 3x + 15 = 2x^2 - 13x + 15$
+- $(-x+4)(3x-2) = -3x^2 + 2x + 12x - 8 = -3x^2 + 14x - 8$
+
+**Exercice 8**
+- $4(2x+3)-5(x-1) = (8x+12) + (-5x+5) = 3x + 17$
+- $5x(x-3)+2x(4-x) = (5x^2-15x) + (8x-2x^2) = 3x^2 - 7x$
+- $(3x-2)(x+5)-(x-1)(2x+3) = (3x^2+13x-10) - (2x^2+x-3) = x^2 + 12x - 7$
+- $-2(6x-1)(2x+3) = -2(12x^2+16x-3) = -24x^2 - 32x + 6$
+
+### Identités remarquables
+
+**Exercice 9**
 $$(a+b)^2 = (a+b)(a+b) = a^2+ab+ab+b^2 = a^2+2ab+b^2$$
 $$(a-b)^2 = (a-b)(a-b) = a^2-ab-ab+b^2 = a^2-2ab+b^2$$
 $$(a+b)(a-b) = a^2-ab+ab-b^2 = a^2-b^2$$
 
-**Exercice 8**
+**Exercice 10**
 1. $(3x+2)^2 = 9x^2+12x+4$
 2. $(2x-3)^2 = 4x^2-12x+9$
 3. $(6x-4)(6x+4) = 36x^2-16$
+
+### Les méthodes
+
+**Exercice 11**
+- Pour $x=1$ : $A = 2\times 1 - 2\times 1 + 4 = 4$ et $B = 4\times 1 = 4$. On a $A = B$.
+- Pour $x=2$ : $A = 2\times 4 - 2\times 2 + 4 = 8$ et $B = 4\times 2 = 8$. On a $A = B$.
+Les deux expressions sont donc égales pour $x=1$ et pour $x=2$.
+
+**Exercice 12**
+Il suffit de trouver une valeur de $x$ pour laquelle $A$ et $B$ diffèrent.
+Pour $x=0$ : $A = 4$ et $B = 0$, donc $A \neq B$. Les deux expressions ne sont pas égales pour toutes les valeurs de $x$.
+
+**Exercice 13**
+$A = (2x+3)^2 - 4x^2 = (4x^2+12x+9) - 4x^2 = 12x + 9$.
+$B = 3(4x+3) = 12x + 9$.
+$A$ et $B$ ont la même forme développée réduite : elles sont égales pour toutes les valeurs de $x$.
+
+**Exercice 14**
+1. $A = 9x^2 + 12x + 4 = (3x)^2 + 2\times 3x \times 2 + 2^2 = (3x+2)^2$
+2. $B = 4x^2 - 36 = (2x)^2 - 6^2 = (2x-6)(2x+6)$
+3. $C = 4x^2 - 16x + 16 = (2x)^2 - 2\times 2x \times 4 + 4^2 = (2x-4)^2$
 
 ## Corrigé chapitre 4 — Arithmétique
 
