@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 470" font-family="Georgia, 'Times New Roman', serif">
+  <rect x="0" y="0" width="700" height="470" rx="10" fill="#ffffff"/>
+
+  <defs>
+    <marker id="tn" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0 L10 5 L0 10 z" fill="#1e1e1e"/></marker>
+    <marker id="tb" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0 L10 5 L0 10 z" fill="#2f6fb3"/></marker>
+    <marker id="tv" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0 L10 5 L0 10 z" fill="#8149bd"/></marker>
+  </defs>
+
+  <!-- ================= PANEL 1 : distributivité simple ================= -->
+  <text x="30" y="36" font-family="'Courier New', monospace" font-size="12" letter-spacing="2" fill="#8a8a8a">DISTRIBUTIVITÉ SIMPLE</text>
+
+  <g fill="none" stroke="#1e1e1e" stroke-width="1.6">
+    <path d="M74 88 Q 118 52 164 88" marker-end="url(#tn)"/>
+    <path d="M74 84 Q 152 34 236 86" marker-end="url(#tn)"/>
+  </g>
+
+  <!-- LHS : [] x ( O + ^ ) -->
+  <rect x="57" y="92" width="34" height="34" rx="5" fill="none" stroke="#2f6fb3" stroke-width="2.6"/>
+  <text x="105" y="116" font-size="24" fill="#1e1e1e">×</text>
+  <text x="129" y="118" font-size="28" fill="#1e1e1e">(</text>
+  <circle cx="173" cy="109" r="17" fill="none" stroke="#1c977a" stroke-width="2.6"/>
+  <text x="202" y="116" font-size="24" fill="#1e1e1e">+</text>
+  <polygon points="247,90 267,127 227,127" fill="none" stroke="#cf821d" stroke-width="2.6" stroke-linejoin="round"/>
+  <text x="283" y="118" font-size="28" fill="#1e1e1e">)</text>
+  <text x="317" y="116" font-size="24" fill="#1e1e1e">=</text>
+
+  <!-- RHS : []xO + []x^ -->
+  <rect x="348" y="98" width="22" height="22" rx="3.5" fill="none" stroke="#2f6fb3" stroke-width="2.2"/>
+  <text x="376" y="115" font-size="17" fill="#1e1e1e">×</text>
+  <circle cx="404" cy="109" r="11" fill="none" stroke="#1c977a" stroke-width="2.2"/>
+  <text x="425" y="115" font-size="20" fill="#1e1e1e">+</text>
+  <rect x="446" y="98" width="22" height="22" rx="3.5" fill="none" stroke="#2f6fb3" stroke-width="2.2"/>
+  <text x="474" y="115" font-size="17" fill="#1e1e1e">×</text>
+  <polygon points="503,99 516,120 490,120" fill="none" stroke="#cf821d" stroke-width="2.2" stroke-linejoin="round"/>
+
+  <line x1="30" y1="184" x2="670" y2="184" stroke="#e4e2da" stroke-width="1.5"/>
+
+  <!-- ================= PANEL 2 : distributivité double ================= -->
+  <text x="30" y="226" font-family="'Courier New', monospace" font-size="12" letter-spacing="2" fill="#8a8a8a">DISTRIBUTIVITÉ DOUBLE</text>
+
+  <g fill="none" stroke="#2f6fb3" stroke-width="1.6">
+    <path d="M64 296 Q 160 256 260 297" marker-end="url(#tb)"/>
+    <path d="M64 292 Q 196 234 334 297" marker-end="url(#tb)"/>
+  </g>
+  <g fill="none" stroke="#8149bd" stroke-width="1.6">
+    <path d="M138 346 Q 195 388 258 348" marker-end="url(#tv)"/>
+    <path d="M138 349 Q 234 398 332 348" marker-end="url(#tv)"/>
+  </g>
+
+  <!-- LHS : ( [] + <> ) x ( O + ^ ) -->
+  <text x="30" y="332" font-size="30" fill="#1e1e1e">(</text>
+  <rect x="50" y="304" width="34" height="34" rx="5" fill="none" stroke="#2f6fb3" stroke-width="2.6"/>
+  <text x="96" y="329" font-size="22" fill="#1e1e1e">+</text>
+  <rect x="122" y="305" width="32" height="32" rx="4" transform="rotate(45 138 321)" fill="none" stroke="#8149bd" stroke-width="2.6"/>
+  <text x="168" y="332" font-size="30" fill="#1e1e1e">)</text>
+  <text x="192" y="329" font-size="22" fill="#1e1e1e">×</text>
+  <text x="216" y="332" font-size="30" fill="#1e1e1e">(</text>
+  <circle cx="260" cy="321" r="17" fill="none" stroke="#1c977a" stroke-width="2.6"/>
+  <text x="288" y="329" font-size="22" fill="#1e1e1e">+</text>
+  <polygon points="334,304 352,338 316,338" fill="none" stroke="#cf821d" stroke-width="2.6" stroke-linejoin="round"/>
+  <text x="366" y="332" font-size="30" fill="#1e1e1e">)</text>
+
+  <!-- RHS : sur sa propre ligne, formes pleine taille -->
+  <text x="34" y="428" font-size="24" fill="#1e1e1e">=</text>
+  <rect x="62" y="410" width="24" height="24" rx="4" fill="none" stroke="#2f6fb3" stroke-width="2.3"/>
+  <text x="92" y="428" font-size="18" fill="#1e1e1e">×</text>
+  <circle cx="120" cy="422" r="12" fill="none" stroke="#1c977a" stroke-width="2.3"/>
+  <text x="142" y="428" font-size="22" fill="#1e1e1e">+</text>
+  <rect x="164" y="410" width="24" height="24" rx="4" fill="none" stroke="#2f6fb3" stroke-width="2.3"/>
+  <text x="194" y="428" font-size="18" fill="#1e1e1e">×</text>
+  <polygon points="224,411 238,434 210,434" fill="none" stroke="#cf821d" stroke-width="2.3" stroke-linejoin="round"/>
+  <text x="252" y="428" font-size="22" fill="#1e1e1e">+</text>
+  <rect x="274" y="411" width="22" height="22" rx="4" transform="rotate(45 285 422)" fill="none" stroke="#8149bd" stroke-width="2.3"/>
+  <text x="306" y="428" font-size="18" fill="#1e1e1e">×</text>
+  <circle cx="334" cy="422" r="12" fill="none" stroke="#1c977a" stroke-width="2.3"/>
+  <text x="356" y="428" font-size="22" fill="#1e1e1e">+</text>
+  <rect x="378" y="411" width="22" height="22" rx="4" transform="rotate(45 389 422)" fill="none" stroke="#8149bd" stroke-width="2.3"/>
+  <text x="410" y="428" font-size="18" fill="#1e1e1e">×</text>
+  <polygon points="440,411 454,434 426,434" fill="none" stroke="#cf821d" stroke-width="2.3" stroke-linejoin="round"/>
+</svg>

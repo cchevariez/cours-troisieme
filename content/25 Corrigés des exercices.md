@@ -6,11 +6,9 @@ tags:
 
 # Corrigés des exercices
 
-Tous les corrigés d'exercices du cours, regroupés ici par chapitre. Quand le corrigé n'existait pas dans le support d'origine, il a été rédigé pour cette édition (indiqué par *rédigé pour cette édition*).
+Tous les corrigés d'exercices du cours, regroupés ici par chapitre.
 
 ## Corrigé chapitre 1 — Activités numériques et littérales
-
-*Rédigé pour cette édition.*
 
 **Exercice 1**
 - $A = -20 + 8 \times (-4) = -20 - 32 = -52$
@@ -146,8 +144,6 @@ Longueur totale : $60 \times 3 + 10\pi = 240 + 10\pi \approx 271,4$ m. Temps de 
 
 ## Corrigé chapitre 2 — Rappels de géométrie
 
-*Rédigé pour cette édition.*
-
 **Exercice 1 (labyrinthe)**
 1. Le chemin se trouve en éliminant au fur et à mesure les voies sans issue (impasses) jusqu'à relier le bateau au trésor — à vérifier directement sur le schéma.
 2. Méthode : partir du départ (ou, plus efficace, des deux extrémités à la fois) et éliminer systématiquement chaque embranchement qui se termine en impasse, jusqu'à ne garder qu'un seul chemin continu.
@@ -205,8 +201,6 @@ Comme $MP^2 = MN^2+NP^2$, d'après la réciproque du théorème de Pythagore, le
 $$\mathcal{A} = \frac{MN \times NP}{2} = \frac{5 \times 12}{2} = 30 \text{ cm}^2$$
 
 ## Corrigé chapitre 3 — Le développement
-
-*Rédigé pour cette édition.*
 
 **Exercice 1**
 - $9(2x+3) = 18x+27$
@@ -279,7 +273,7 @@ $$(a+b)(a-b) = a^2-ab+ab-b^2 = a^2-b^2$$
 3. 24 est un **multiple** de 8 (car $24 = 8 \times 3$)
 4. 9 est un **diviseur** de 63 (car $63 = 9 \times 7$)
 
-**Exercice 3** *(rédigé pour cette édition)*
+**Exercice 3**
 1. 42 est un **multiple** de 6 (car $42 = 6 \times 7$)
 2. 8 est un **diviseur** de 96 (car $96 = 8 \times 12$)
 3. 100 est un **multiple** de 4 (car $100 = 4 \times 25$)
@@ -295,7 +289,7 @@ $$(a+b)(a-b) = a^2-ab+ab-b^2 = a^2-b^2$$
 3. 5634 : divisible par 2 (oui), 3 (oui, $5+6+3+4=18$), 5 (non), 9 (oui), 10 (non)
 4. 7290 : divisible par 2 (oui), 3 (oui, $7+2+9+0=18$), 5 (oui), 9 (oui), 10 (oui)
 
-**Exercice 5** *(rédigé pour cette édition)*
+**Exercice 5**
 1. 342 : divisible par 2 (oui), 3 (oui, $3+4+2=9$), 5 (non), 9 (oui, $9$), 10 (non)
 2. 4185 : divisible par 2 (non), 3 (oui, $4+1+8+5=18$), 5 (oui), 9 (oui, $18$), 10 (non)
 3. 6930 : divisible par 2 (oui), 3 (oui, $6+9+3+0=18$), 5 (oui), 9 (oui, $18$), 10 (oui)
@@ -309,7 +303,7 @@ $$(a+b)(a-b) = a^2-ab+ab-b^2 = a^2-b^2$$
 4. 33 : **non premier**, diviseur 3 (car $33 = 3 \times 11$)
 5. 41 : **premier**
 
-**Exercice 7** *(rédigé pour cette édition)*
+**Exercice 7**
 
 Les 25 nombres premiers entre 0 et 100 sont : 2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61, 67, 71, 73, 79, 83, 89, 97.
 
@@ -333,7 +327,7 @@ Les 25 nombres premiers entre 0 et 100 sont : 2, 3, 5, 7, 11, 13, 17, 19, 23, 29
 2. PGCD(20, 30) : diviseurs communs 1, 2, 5, 10 → **PGCD = 10**
 3. PGCD(15, 25) : diviseurs communs 1, 5 → **PGCD = 5**
 
-**Exercice 11** *(rédigé pour cette édition)*
+**Exercice 11**
 1. PGCD(16, 24) : diviseurs communs 1, 2, 4, 8 → **PGCD = 8**
 2. PGCD(28, 42) : diviseurs communs 1, 2, 7, 14 → **PGCD = 14**
 3. PGCD(36, 60) : diviseurs communs 1, 2, 3, 4, 6, 12 → **PGCD = 12**
@@ -344,41 +338,41 @@ Les 25 nombres premiers entre 0 et 100 sont : 2, 3, 5, 7, 11, 13, 17, 19, 23, 29
 2. PGCD(90, 126) : $90 = 2 \times 3^2 \times 5$, $126 = 2 \times 3^2 \times 7$ → PGCD $= 2 \times 3^2 = 18$
 3. PGCD(144, 96) : $144 = 2^4 \times 3^2$, $96 = 2^5 \times 3$ → PGCD $= 2^4 \times 3 = 48$
 
-**Exercice 13** *(rédigé pour cette édition)*
+**Exercice 13**
 1. PGCD(120, 180) : $120 = 2^3 \times 3 \times 5$, $180 = 2^2 \times 3^2 \times 5$ → PGCD $= 2^2 \times 3 \times 5 = 60$
 2. PGCD(150, 240) : $150 = 2 \times 3 \times 5^2$, $240 = 2^4 \times 3 \times 5$ → PGCD $= 2 \times 3 \times 5 = 30$
 3. PGCD(210, 126) : $210 = 2 \times 3 \times 5 \times 7$, $126 = 2 \times 3^2 \times 7$ → PGCD $= 2 \times 3 \times 7 = 42$
 
-**Exercice 14** *(rédigé pour cette édition)*
+**Exercice 14**
 
 Le nombre maximal de personnes est PGCD(84,147). $84=2^2\times3\times7$, $147=3\times7^2$, donc PGCD $=3\times7=21$.
 1. Au maximum **21 personnes** pourront bénéficier des friandises.
 2. Chaque personne aura $84 \div 21 = 4$ sucettes et $147 \div 21 = 7$ bonbons.
 
-**Exercice 15** *(rédigé pour cette édition)*
+**Exercice 15**
 
 1. Algorithme d'Euclide : $6209 = 1 \times 4435 + 1774$ ; $4435 = 2 \times 1774 + 887$ ; $1774 = 2 \times 887 + 0$. Le dernier reste non nul est 887, donc PGCD(6209, 4435) $= 887$.
 2. Comme PGCD(6209, 4435) $= 887 \neq 1$, le numérateur et le dénominateur ont un diviseur commun autre que 1 : la fraction $\dfrac{4435}{6209}$ n'est donc pas irréductible.
 3. $4435 = 887 \times 5$ et $6209 = 887 \times 7$, donc $\dfrac{4435}{6209} = \dfrac{5}{7}$, qui est irréductible (5 et 7 sont premiers entre eux).
 
-**Exercice 16** *(rédigé pour cette édition)*
+**Exercice 16**
 
 1. $135 = 3^3 \times 5$ et $210 = 2 \times 3 \times 5 \times 7$, donc PGCD(135, 210) $= 3 \times 5 = 15$.
 2.
     1. Le côté du carreau le plus grand possible qui divise à la fois 210 cm et 135 cm est le PGCD : **15 cm**.
     2. Il faudra $\dfrac{210}{15} \times \dfrac{135}{15} = 14 \times 9 = 126$ carreaux.
 
-**Exercice 17** *(rédigé pour cette édition)*
+**Exercice 17**
 
 $182 = 2 \times 7 \times 13$ et $78 = 2 \times 3 \times 13$, donc PGCD(182, 78) $= 2 \times 13 = 26$.
 Julie pourra faire **26 bouquets** identiques, chacun composé de $182 \div 26 = 7$ brins de muguet et $78 \div 26 = 3$ roses.
 
-**Exercice 18** *(rédigé pour cette édition)*
+**Exercice 18**
 
 1. Un nombre a exactement 3 diviseurs si et seulement s'il est le carré d'un nombre premier (ses diviseurs sont alors $1$, $p$ et $p^2$). Les carrés de nombres premiers inférieurs à 10 sont $2^2=4$ et $3^2=9$.
 2. On cherche un carré de nombre premier à trois chiffres dont la somme des chiffres vaut 13. En testant les carrés des nombres premiers entre 11 et 31 (bornes pour rester à trois chiffres) : $11^2=121$ (somme 4), $13^2=169$ (somme 16), $17^2=289$ (somme 19), $19^2=361$ (somme 10), $23^2=529$ (somme 16), $29^2=841$ (somme $8+4+1=13$ ✓), $31^2=961$ (somme 16). Le nombre cherché est donc **841** ($=29^2$).
 
-**Exercice 19** *(rédigé pour cette édition)*
+**Exercice 19**
 
 $N$ est divisible par 6 donc par 2 et par 3 : $N$ contient au moins les facteurs premiers 2 et 3. $N$ n'est pas divisible par 8 $=2^3$, donc l'exposant de 2 dans $N$ vaut 1 ou 2. Le nombre de diviseurs de $N=2^a\times3^b\times\ldots$ est $15=(a+1)(b+1)\ldots$ Comme $15=3\times5$ et qu'il faut au moins les deux facteurs premiers 2 et 3, on a $(a+1)(b+1)=15$. Avec $a\le 2$, la seule possibilité est $a+1=3$ (soit $a=2$) et $b+1=5$ (soit $b=4$).
 $$N = 2^2 \times 3^4 = 4 \times 81 = 324$$
@@ -396,11 +390,11 @@ Vérification : $324 \div 6 = 54$ (divisible par 6), $324 \div 8 = 40,5$ (non di
 
 **Exercice 5 :** Ligne 1 : Coeff = 0,80 et $PF = 120$ €. Ligne 2 : Coeff = 1,15 et $PF = 92$ €. Ligne 3 : $PI = 100$ €. Ligne 4 : Opération = augmentation de 12% et $PF = 280$ €.
 
-**Exercice 6 :** *(rédigé pour cette édition)* 1) $60 \times 0,8 = 48$ €. 2) $45 \times 1,12 = 50,40$ €. 3) $1\,800 \times 1,03 = 1\,854$ €. 4) $250 \times 0,92 = 230$ articles. 5) $12\,000 \times 1,025 = 12\,300$ habitants. 6) $90 \times 0,55 = 49,50$ €.
+**Exercice 6 :** 1) $60 \times 0,8 = 48$ €. 2) $45 \times 1,12 = 50,40$ €. 3) $1\,800 \times 1,03 = 1\,854$ €. 4) $250 \times 0,92 = 230$ articles. 5) $12\,000 \times 1,025 = 12\,300$ habitants. 6) $90 \times 0,55 = 49,50$ €.
 
-**Exercice 7 :** *(rédigé pour cette édition)* 1) $PI = \frac{63}{0,9} = 70$ €. 2) $PI = \frac{2\,500}{1,25} = 2\,000$ €. 3) $PI = \frac{105}{0,7} = 150$ €. 4) $PI = \frac{8\,400}{1,05} = 8\,000$ habitants.
+**Exercice 7 :** 1) $PI = \frac{63}{0,9} = 70$ €. 2) $PI = \frac{2\,500}{1,25} = 2\,000$ €. 3) $PI = \frac{105}{0,7} = 150$ €. 4) $PI = \frac{8\,400}{1,05} = 8\,000$ habitants.
 
-**Exercice 8 :** *(rédigé pour cette édition)* 1) $\frac{15}{100}\times200 = 30$. 2) $\frac{8}{100}\times350 = 28$. 3) $\frac{60}{100}\times45 = 27$. 4) $\frac{120}{100}\times80 = 96$. 5) $\frac{2,5}{100}\times4\,000 = 100$.
+**Exercice 8 :** 1) $\frac{15}{100}\times200 = 30$. 2) $\frac{8}{100}\times350 = 28$. 3) $\frac{60}{100}\times45 = 27$. 4) $\frac{120}{100}\times80 = 96$. 5) $\frac{2,5}{100}\times4\,000 = 100$.
 
 **Exercice 9 :** 1) Longueur réelle $= 15 \times 2500 = 37\,500$ cm $= 375$ m. 2) Longueur sur plan $= \frac{200\,000}{2500} = 80$ cm.
 
@@ -426,7 +420,7 @@ Vérification : $324 \div 6 = 54$ (divisible par 6), $324 \div 8 = 40,5$ (non di
 
 ## Corrigé chapitre 6 — Factorisation
 
-**Exercice 1** *(rédigé pour cette édition)*
+**Exercice 1**
 $$
 \begin{align*}
 21x+14 &= 7\times3x+7\times2 = 7(3x+2)
@@ -507,7 +501,7 @@ C(x) &= 9x^2-64 = (3x)^2-(8)^2 = (3x-8)(3x+8)
 \end{align*}
 $$
 
-**Exercice 4** *(rédigé pour cette édition)*
+**Exercice 4**
 $$
 \begin{align*}
 x^2+14x+49 &= x^2+2\times x \times 7+7^2 = (x+7)^2
@@ -617,40 +611,40 @@ $$
 
 *Chapitre brouillon. Numérotation par sous-section, comme dans le chapitre.*
 
-**Triangles semblables — Exercice 1** *(rédigé pour cette édition)*
+**Triangles semblables — Exercice 1**
 
 Le rapport de similitude est $k=\dfrac{RS}{MN}=\dfrac{9}{6}=1,5$. On en déduit $ST = NP \times k = 8 \times 1,5 = 12$ cm et $RT = MP \times k = 10 \times 1,5 = 15$ cm.
 
-**Triangles semblables — Exercice 2** *(rédigé pour cette édition)*
+**Triangles semblables — Exercice 2**
 
 Oui, toujours. Tous les angles d'un triangle équilatéral mesurent $60°$, donc deux triangles équilatéraux ont toujours leurs angles égaux deux à deux (critère AA) : ils sont donc toujours semblables (mais pas forcément de la même taille).
 
-**Triangles semblables — Exercice 3** *(rédigé pour cette édition)*
+**Triangles semblables — Exercice 3**
 
 Le rapport de similitude est $k=\dfrac{DE}{AB}=\dfrac{10}{4}=2,5$. On en déduit $EF = BC \times k = 5 \times 2,5 = 12,5$ cm et $DF = AC \times k = 6 \times 2,5 = 15$ cm.
 
-**Théorème de Thalès — Exercice 1** *(rédigé pour cette édition)*
+**Théorème de Thalès — Exercice 1**
 
 Configuration papillon de sommet $I$ : les droites $(GJ)$ et $(HK)$ sont sécantes en $I$, et $(GH) \parallel (JK)$. D'après le théorème de Thalès :
 $$\frac{IG}{IJ} = \frac{IH}{IK} = \frac{GH}{JK}$$
 $$\frac{6}{3,6} = \frac{IH}{2,4} = \frac{5}{JK}$$
 On en déduit $JK = \dfrac{5 \times 3,6}{6} = 3$ cm et $IH = \dfrac{2,4 \times 6}{3,6} = 4$ cm.
 
-**Théorème de Thalès — Exercice 2** *(rédigé pour cette édition)*
+**Théorème de Thalès — Exercice 2**
 
 Dans le triangle $UVW$, $X \in [WU]$, $Y \in [WV]$ et $(UV) \parallel (XY)$. D'après le théorème de Thalès :
 $$\frac{WX}{WU} = \frac{WY}{WV} = \frac{XY}{UV}$$
 $$\frac{4}{10} = \frac{3,2}{WV} = \frac{XY}{9}$$
 On en déduit $XY = \dfrac{4 \times 9}{10} = 3,6$ cm et $WV = \dfrac{3,2 \times 10}{4} = 8$ cm.
 
-**Théorème de Thalès — Exercice 3** *(rédigé pour cette édition)*
+**Théorème de Thalès — Exercice 3**
 
 $(LI)$ et $(KJ)$ sont toutes deux perpendiculaires à $(HK)$, donc parallèles entre elles. D'après le théorème de Thalès dans le triangle $HKJ$ :
 $$\frac{HL}{HK} = \frac{LI}{KJ}$$
 $$\frac{9}{16,2} = \frac{3,7}{KJ}$$
 $$KJ = \frac{16,2 \times 3,7}{9} = 6,66 \text{ cm}$$
 
-**Théorème de Thalès — Exercice 4** *(rédigé pour cette édition)*
+**Théorème de Thalès — Exercice 4**
 
 Au même instant, le rapport hauteur/ombre est le même pour le poteau et pour l'arbre (situation de Thalès avec les rayons du soleil parallèles) :
 $$\frac{h_{arbre}}{6,3} = \frac{2,5}{1,8}$$
@@ -701,8 +695,6 @@ $$h_{arbre} = \frac{2,5 \times 6,3}{1,8} = 8,75 \text{ m}$$
 5. Le triangle $ABC$ est isocèle donc $AB = AC$. La corde doit donc avoir une longueur au moins égale à 2 fois $AB$, soit $2\times 63,2$ c'est-à-dire $126,4$ cm. Une corde de 1 m n'est donc pas assez longue.
 
 ## Corrigé chapitre 8 — Notion de fonction
-
-*Rédigé pour cette édition.*
 
 **Exercice 1**
 1. La fonction associe la vitesse du véhicule et la distance de freinage.
@@ -827,8 +819,6 @@ Avec $h(t)=-5t^2+20t$ :
 
 ## Corrigé chapitre 9 — Équations et inéquations
 
-*Rédigé pour cette édition.*
-
 **Exercice 1**
 
 Sont des équations produit nul : $(6x-4)(2x+1) = 0$ ; $6(2x+1) = 0$ ; $0 = (-3x+5)(3x+2)$.
@@ -879,8 +869,6 @@ Représentations sur un axe gradué (● = point inclus, ○ = point exclu) :
 
 ## Corrigé chapitre 10 — Fonctions affines et linéaires
 
-*Rédigé pour cette édition.*
-
 **Exercice 1**
 
 Avec $f(x)=2,7x$ :
@@ -930,8 +918,6 @@ $$f(x) = 3x+2$$
 
 ## Corrigé chapitre 11 — Trigonométrie
 
-*Rédigé pour cette édition.*
-
 **Exercice 1**
 
 Le triangle est rectangle en $A$. Par rapport à l'angle $\widehat{ACB}$ (en $C$) : l'hypoténuse est $[BC]$ (côté opposé à l'angle droit), le côté opposé (à l'angle $\widehat{ACB}$) est $[AB]$, et le côté adjacent est $[AC]$.
@@ -966,8 +952,6 @@ $$cos(\widehat{IAS}) = \frac{IA}{SA} = \frac{4}{6} = \frac{2}{3} \approx 0,667$$
 4. $\widehat{IAS} = \arccos\left(\dfrac{2}{3}\right) \approx 48°$.
 
 ## Corrigé chapitre 12 — Statistiques - Probabilité
-
-*Rédigé pour cette édition.*
 
 **Exercice 1**
 1. Population étudiée : étude 1, les élèves de la classe de quatrième ; étude 2, les clients (voitures) du constructeur automobile.
@@ -1034,8 +1018,6 @@ $$C1 = \frac{6 \times 15}{100} = 0,9$$
 
 ## Corrigé chapitre 14 — Géométrie dans l'espace
 
-*Rédigé pour cette édition.*
-
 **Exercice 1**
 
 Avec $A$ pour origine, abscisse selon $(AD)$ (longueur 7), ordonnée selon $(AB)$ (longueur 5) et altitude selon $(AE)$ (longueur 4) :
@@ -1054,8 +1036,6 @@ Avec $A$ pour origine, abscisse selon $(AD)$ (longueur 7), ordonnée selon $(AB)
 $K$ est le milieu de $[FG]$, avec $F(0;5;4)$ et $G(7;5;4)$ : ses coordonnées sont la moyenne de celles de $F$ et $G$, soit $K(3,5;5;4)$.
 
 ## Corrigé chapitre 15 — Transition 3e→2nde : Les relatifs
-
-*Rédigé pour cette édition.*
 
 **Exercice 1**
 $(-6)+4=-2$ ; $9+(-14)=-5$ ; $(-4) + (+9)=5$
@@ -1100,8 +1080,6 @@ $D = -9 \times (-6-8)=-9\times(-14)=126$
     - $-5x+10=-2,5 \iff x=2,5$
 
 ## Corrigé chapitre 16 — Transition 3e→2nde : Les fractions
-
-*Rédigé pour cette édition.*
 
 **Exercice 1**
 - $A = \dfrac{3}{2} \times \dfrac{4}{5} = \dfrac{12}{10}=\dfrac{6}{5}$
@@ -1155,8 +1133,6 @@ L'épreuve de VTT représente donc $1-\dfrac{41}{60}=\dfrac{19}{60}$ de la dista
 
 ## Corrigé chapitre 17 — Transition 3e→2nde : Puissances
 
-*Rédigé pour cette édition.*
-
 **Exercice 1**
 $3^5=243$ ; $(-2)^3=-8$ ; $10^4=10\,000$
 
@@ -1198,8 +1174,6 @@ $B = \dfrac{4,2 \times 10^4}{3 \times 10^{-5}} = 1,4 \times 10^{9}$
 4. $D = (\sqrt{2}-\sqrt{7})(\sqrt{2}+\sqrt{7}) = 2-7=-5$
 
 ## Corrigé chapitre 18 — Transition 3e→2nde : Calcul littéral 1
-
-*Rédigé pour cette édition.*
 
 **Exercice 1**
 1. $6x = 24$ : diviser les deux membres par 6 → $x=4$
@@ -1259,8 +1233,6 @@ En simplifiant : $\dfrac{5n+10}{5}=n+2$, donc $A=(n+2)+2(n+2)=3(n+2)$, qui est b
 
 ## Corrigé chapitre 19 — Transition 3e→2nde : Second degré
 
-*Rédigé pour cette édition.*
-
 **Exercice 1**
 
 Sont des trinômes du second degré (une fois ramenés à la forme $ax^2+bx+c=0$ avec $a\ne0$) :
@@ -1298,8 +1270,6 @@ N'est **pas** un trinôme du second degré : $9x+4x+4=0$ (soit $13x+4=0$, pas de
 
 ## Corrigé chapitre 20 — Repérage dans le plan
 
-*Rédigé pour cette édition.*
-
 **Exercice 1**
 
 Sur chaque repère, il faut identifier : l'**origine** (point d'intersection des deux axes), l'**axe des abscisses** (axe horizontal, en suivant la flèche vers la droite), l'**axe des ordonnées** (axe vertical, en suivant la flèche vers le haut) et l'**unité** de chaque axe (distance entre deux graduations consécutives).
@@ -1333,8 +1303,6 @@ Avec $A(-6,4;4,4)$, $B(-2,5;3,4)$, $C(8,2;-4,9)$, $E(6;4)$, $F(-2,5;-4,4)$, et l
 - $\vv{CF} = (-2,5-8,2\,;\,-4,4-(-4,9)) = (-10,7\,;\,0,5)$
 
 ## Corrigé chapitre 21 — Transition 3e→2nde : Les fonctions
-
-*Rédigé pour cette édition.*
 
 **Exercice 1**
 1. $f(4)=2$
@@ -1385,8 +1353,6 @@ Avec $h(t)=-5t^2+20t$ :
 5. La hauteur maximale est $20$ m, atteinte $2$ secondes après le tir (sommet de la parabole, cohérent avec le tableau de valeurs symétrique autour de $t=2$).
 
 ## Corrigé chapitre 22 — Transition 3e→2nde : Géométrie plane
-
-*Rédigé pour cette édition.*
 
 > [!remarque] Note sur les figures de ce chapitre
 > Dans le support d'origine, les images associées aux exercices 1 et 2 (`geom1.png`, `geom2.png`) ne correspondent pas à leurs énoncés : ce sont des figures d'exercices totalement différents (points nommés différemment, énoncé embarqué dans l'image pour `geom1.png`). Elles ont été retirées de ces deux exercices dans le cours ; les valeurs numériques d'angles qui n'étaient données que sur ces figures manquantes ne peuvent donc pas être calculées et sont signalées ci-dessous. En revanche, les figures des exercices 3, 4 et 5 (`geom3.png`, `geom4.png`, `geom5.png`) correspondent bien à leurs énoncés respectifs (mêmes noms de points) et ont été conservées.

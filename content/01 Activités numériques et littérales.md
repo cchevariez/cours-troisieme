@@ -6,7 +6,7 @@ tags:
  
 # Activités numériques et littérales
 
-**Objectif :** Cette fiche a pour but de vous donner les règles de rédaction pour les activités numériques et littérales.
+**Objectif :** Cette fiche précise les règles de rédaction des activités numériques et littérales, et revient sur un point de calcul essentiel : le signe d'un nombre et la règle des signes.
 
 > [!remarque] Remarque
 > Tout élément de rédaction portant la marque `opt` est optionnel. A contrario, si un élément ne porte pas cette marque, il est obligatoire.
@@ -20,6 +20,73 @@ Voyons les règles de rédaction à travers un exemple.
 Quel est l'intérêt de souligner le calcul que vous allez faire à chaque ligne ?
 - Pour vous :
 - Pour votre correcteur :
+
+## Le signe d'un nombre
+
+En quatrième, la règle des signes pour la multiplication a souvent été apprise comme une recette : « moins par moins, plus ; moins par plus, moins ». La partie « moins par plus donne moins » s'accepte sans peine ; « moins par moins donne plus » ressemble davantage à un tour de magie. Nous allons **démontrer** cette règle. Tout repose sur un seul résultat, que l'on établit d'abord : $(-1)^2 = 1$.
+
+### Point de départ : le carré de $-1$
+
+> [!propriete] Propriété — Le carré de $-1$
+> $$(-1) \times (-1) = 1 \qquad \text{c'est-à-dire} \qquad (-1)^2 = 1$$
+>
+> **Démonstration.** On part de $1 + (-1) = 0$ (somme de deux nombres opposés) et on multiplie les deux membres par $-1$ :
+> $$
+> \begin{align*}
+> (-1) \times \big(1 + (-1)\big) &= (-1) \times 0 \\
+> (-1) \times 1 + (-1) \times (-1) &= 0 \\
+> -1 + (-1) \times (-1) &= 0 \\
+> -1 + (-1)^2 &= 0 \\
+> (-1)^2 &= 1
+> \end{align*}
+> $$
+> Le passage de la première à la deuxième ligne utilise la distributivité, valable pour tous les nombres. La dernière ligne s'obtient en ajoutant $1$ aux deux membres de la précédente : $(-1)^2$ est bien l'opposé de $-1$.
+
+### La forme explicite d'un nombre négatif
+
+> [!definition] Définition — Forme explicite d'un nombre négatif
+> La **forme explicite** d'un nombre négatif est son écriture comme produit de $-1$ par sa distance à zéro (un nombre positif). Le signe apparaît alors comme un facteur $-1$ à part entière.
+
+> [!exemple] Exemple
+> $$-3 = (-1) \times 3 \qquad\quad -7 = (-1) \times 7 \qquad\quad -1 = (-1) \times 1$$
+
+> [!exercice] Exercice 1
+> Écrire chaque nombre sous sa forme explicite :
+> $$-5 \qquad -9 \qquad -1 \qquad -20 \qquad -2{,}5$$
+
+> [!exercice] Exercice 2
+> Chaque nombre ci-dessous est écrit sous forme explicite. Donner son écriture habituelle :
+> $$(-1) \times 8 \qquad (-1) \times 15 \qquad (-1) \times 1 \qquad (-1) \times 3{,}5$$
+
+### Retrouver la règle des signes
+
+> [!definition] Définition — Nombre négatif
+> Un nombre négatif est un nombre de la forme $(-1) \times a$, où $a$ est un nombre positif.
+
+> [!exercice] Exercice 3
+> Démontrer que le produit de deux nombres négatifs est positif.
+
+> [!exercice] Exercice 4
+> Démontrer que le produit d'un nombre négatif par un nombre positif est négatif.
+
+> [!remarque] Remarque
+> « Moins par moins, ça fait plus » n'est plus une règle à retenir : c'est une conséquence de $(-1)^2 = 1$.
+
+### Exercices
+
+> [!exercice] Exercice 5
+> Calculer en décomposant chaque nombre négatif à l'aide de $-1$ :
+> $$(-3) \times (-5) \qquad (-4) \times 7 \qquad (-2) \times (-8) \qquad (-6) \times (-1)$$
+
+> [!demonstration] Correction animée
+> ![[regle_des_signes.mp4]]
+
+> [!exercice] Exercice 6
+> La règle des signes est la même lorsqu'un facteur contient une lettre. Calculer :
+> $$(-3) \times (-6x) \qquad (-2x) \times (-5) \qquad (-4x) \times 3x \qquad (-x) \times (-x)$$
+
+> [!demonstration] Correction animée
+> ![[regle_des_signes_lettres.mp4]]
 
 ## Activités littérales
 
