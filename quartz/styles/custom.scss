@@ -1,3 +1,40 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+
+// Aligner les blocs de calcul ($$...$$) à gauche plutôt qu'au centre : une
+// suite d'étapes (A = ... / A = ... / A = ...) reste sur une même marge
+// verticale, plus lisible qu'un centrage qui fait "sauter" chaque ligne
+// horizontalement selon sa longueur.
+.katex-display {
+  text-align: left;
+}
+
+// Callout "correction" (corrigés repliables des AP-Calcul numérique/littéral,
+// 2026-09-21) — absent du vault d'origine (structure.tex), défini ici au
+// même titre que les autres callouts personnalisés déjà stylés plus haut
+// dans ce fichier de build (definition/propriete/.../demonstration).
+.callout {
+  &[data-callout="correction"] {
+    --color: rgb(63, 81, 181);
+    --callout-icon: url('data:image/svg+xml; utf8, <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="8" y="2" width="8" height="4" rx="1" ry="1"></rect><path d="M16 4h2a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2h2"></path><path d="m9 14 2 2 4-4"></path></svg>');
+  }
+}
+
+// La correction est repliable (voir data-callout="correction" ci-dessus),
+// mais le mécanisme de repli de Quartz (grid-template-rows sur
+// .callout-content) ne collapse que le PREMIER enfant direct — un corrigé
+// avec un $$...$$ par ligne (plusieurs <p> enfants, un par étape, requis
+// pour que chaque étape reste un vrai bloc d'affichage plutôt que d'être
+// fusionnée en mathématiques en ligne minuscules) ne se repliait donc pas du
+// tout. Fix : regrouper les étapes dans une seule liste (un seul enfant
+// direct de .callout-content), puis masquer les puces pour retrouver le
+// même rendu "une ligne par étape" que partout ailleurs.
+.callout[data-callout="correction"] .callout-content ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.callout[data-callout="correction"] .callout-content li {
+  margin: 0;
+}
