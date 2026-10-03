@@ -143,6 +143,7 @@ Dès qu'une parenthèse contient une soustraction, on **réécrit d'abord** l'ex
 > - $(3x-2)(x+5)-(x-1)(2x+3)$
 > - $-2(6x-1)(2x+3)$
 
+
 ## Identités remarquables
 
 > [!propriete] Propriété
